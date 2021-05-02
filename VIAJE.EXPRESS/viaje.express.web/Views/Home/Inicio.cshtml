@@ -1,0 +1,87 @@
+﻿@model viaje.express.model.Login;
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+
+@using (Html.BeginForm())
+{
+    <!DOCTYPE HTML>
+
+    <html>
+    <head>
+        <title>viajes</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+        <link rel="stylesheet" href="~/assets/css/fontawesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+
+        <link rel="stylesheet" href="~/assets/css/main.css" />
+        <link rel="stylesheet" href="~/assets/css/main.css" />
+    </head>
+    <body class="is-preload">
+        <div id="page-wrapper">
+
+            <!-- Header -->
+            <header id="header">
+                <h1>ViajesQUINSALOMA</h1>
+                <nav id="nav">
+                   
+                </nav>
+            </header>
+
+
+            <section id="main" class="container medium">
+                <header>
+                    <h2>Ingreso al sistema</h2>
+                    <p>Usuarios</p>
+                </header>
+                <div class="box">
+
+                    <center><h3>Login</h3>  </center>
+                    <form action="" method="post" name="FormEntrar">
+                        <div class="row gtr-50 gtr-uniform">
+                            <div class="col-12">
+
+                                <span class="input-group-addon" id="sizing-addon1"><i class="glyphicon glyphicon-envelope"></i></span>
+                                <input type="text" class="form-control" name="usuario" id="usuario" placeholder="Usuario">
+                            </div>
+                        </div>
+                        <br />
+                        <div class="row gtr-50 gtr-uniform">
+                            <div class="col-12">
+                                <span class="input-group-addon" id="sizing-addon1"><i class="glyphicon glyphicon-lock"></i></span>
+                                <input type="password" class="form-control" name="pass" id="pass" placeholder="Contraseña">
+                            </div>
+                        </div>
+                        <br />
+                        <div class="col-12">
+                            <ul class="actions special">
+                                <li>
+                                    <input type="button" class="btn btn-lg btn-primary btn-block btn-signin" name="btnVerifivaca" id="btnVerifica" onclick="validar()" value="IniciarSesion" style="width: 100%">
+                 
+                                    <br />
+                                    <br />
+                                    <div class="opcioncontra"><a href="">Olvidaste tu contraseña?</a></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </form>
+
+
+
+                </div>
+            </section>
+        </div>
+    </body>
+</html>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+    <script src="~/assets/js/script.js"></script>
+    <script src="~/assets/js/script2.js"></script>
+
+
+}
+}

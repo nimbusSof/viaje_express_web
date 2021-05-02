@@ -1,0 +1,168 @@
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+D:\NIMBUSSOFT\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+<<<<<<< HEAD
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+=======
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Source\Repos\radiaza25\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+>>>>>>> 7e42b73394caece9b3974c4422819a0bca38616a
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeExpressPasantia\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\aaaa\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csprojAssemblyReference.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache

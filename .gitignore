@@ -1,0 +1,6 @@
+*.config
+*.dll
+*.props
+*.cache
+VIAJE.EXPRESS/.vs/viaje.express/DesignTimeBuild/.dtbcache.v2
+VIAJE.EXPRESS/.vs/viaje.express/v16/.suo

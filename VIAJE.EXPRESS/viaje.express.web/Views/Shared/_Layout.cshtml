@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+  
+</head>
+<body class="is-preload">
+  
+
+   
+        <header id="header">
+            <h1><a href="index.html">Viajes</a>QUINSALOMA</h1>
+            <nav id="nav">
+                <ul>
+                  
+                    <li> <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Inicio">IniciarSesion</a></li>
+                </ul>
+            </nav>
+        </header>
+
+
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2021 - ViajeVersion2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </footer>
+        
+</body>
+@RenderSection("Scripts", required: false)
+</html>
+
+
+
+
+
+
+
+
+
+
+

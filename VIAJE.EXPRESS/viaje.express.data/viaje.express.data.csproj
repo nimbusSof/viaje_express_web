@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ajax" Version="0.0.0" />
+    <PackageReference Include="bootstrap" Version="4.6.0" />
+    <PackageReference Include="HotFix" Version="0.4.0.175" />
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+    <PackageReference Include="System.Console" Version="4.3.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
+    <PackageReference Include="TimespanFactory" Version="1.0.5184.40909" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\viaje.express.model\viaje.express.model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Nimbussoft.BaseDeDatos">
+      <HintPath>..\dlls\Nimbussoft.BaseDeDatos.dll</HintPath>
+    </Reference>
+    <Reference Include="Nimbussoft.DataTables.Standard">
+      <HintPath>..\dlls\Nimbussoft.DataTables.Standard.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

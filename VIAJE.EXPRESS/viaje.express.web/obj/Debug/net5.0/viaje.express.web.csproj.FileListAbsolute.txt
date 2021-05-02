@@ -1,0 +1,1270 @@
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\VehiCRUDController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\EditVehiculo\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\EditVehiculo\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\VehiCRUDController2\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\EditVehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\VehiCRUDController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\EditVehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\VehiCRUDController2\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\EditVehiculo\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\VehiCRUDController2\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\appsettings.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.exe
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.deps.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.runtimeconfig.dev.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Ajax.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\HotFix.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csprojAssemblyReference.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfoInputs.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.AssemblyInfo.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CoreCompileInputs.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorAssemblyInfo.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.Manifest.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\staticwebassets\viaje.express.web.StaticWebAssets.xml
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\scopedcss\bundle\viaje.express.web.styles.css
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.input.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.TagHelpers.output.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorCoreGenerate.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\AdminCoperatController2\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaChofer\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaOperador\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\busquedaVehiculo\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cliente\Cliente.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Cooperativa\Cooperativa.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\CrudUsuario\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\EditVehiculo\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Inicio.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\IndexPrincipal\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Operador\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroChofer\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\RegistroPersona\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\VehiCRUDController2\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Vehiculo\Index.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\wwwroot\pages\vehiculo.cshtml.g.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.RazorTargetAssemblyInfo.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.Views.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.csproj.CopyComplete
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\ref\viaje.express.web.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache

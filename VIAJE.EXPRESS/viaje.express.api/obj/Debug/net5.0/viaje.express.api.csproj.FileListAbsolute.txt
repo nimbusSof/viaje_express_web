@@ -1,0 +1,469 @@
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\Samantha1\Downloads\VIAJE.EXPRESS\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion3\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistas\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\jacome\Desktop\medicion44\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\DELACRUZT\Documents\GitHub\ViajeVistasv2\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion66\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\jacome\Desktop\mendicion8\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\CommonCC.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\TimespanFactory.dll
+C:\Users\Samantha1\Downloads\Proyecto git\viaje.express\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\CommonCC.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\TimespanFactory.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.deps.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.runtimeconfig.dev.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\ref\viaje.express.api.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Ajax.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\CommonCC.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\HotFix.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\System.Text.Json.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\TimespanFactory.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
