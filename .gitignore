@@ -1,5 +1,4 @@
 *.config
-*.dll
 *.props
 *.cache
 VIAJE.EXPRESS/.vs/viaje.express/DesignTimeBuild/.dtbcache.v2
