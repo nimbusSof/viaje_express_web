@@ -4,7 +4,7 @@ using System;
 namespace viaje.express.model
 {
 	[Tabla("cooperativa")]
-	public class Cooperativa
+	public class Cooperativa_old
 	{
 
 		
