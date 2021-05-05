@@ -418,6 +418,16 @@ C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.expres
 C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
 C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
 C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.Development.json
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\appsettings.json
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.api.exe
@@ -451,19 +461,9 @@ D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.E
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\Nimbussoft.BaseDeDatos.dll
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.data.pdb
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\bin\Debug\net5.0\viaje.express.model.pdb
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csprojAssemblyReference.cache
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.GeneratedMSBuildEditorConfig.editorconfig
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfoInputs.cache
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.AssemblyInfo.cs
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CoreCompileInputs.cache
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cs
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.MvcApplicationPartsAssemblyInfo.cache
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.Manifest.cache
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\staticwebassets\viaje.express.api.StaticWebAssets.xml
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\scopedcss\bundle\viaje.express.api.styles.css
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.RazorTargetAssemblyInfo.cache
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.csproj.CopyComplete
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\ref\viaje.express.api.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.pdb
 D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.api\obj\Debug\net5.0\viaje.express.api.genruntimeconfig.cache

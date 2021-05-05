@@ -22,7 +22,8 @@ namespace viaje.express.api.Controllers
             _cooperativa_db = cooperativa_db;
         }
 
-        [HttpGet]
+        [HttpPost]
+        [Route("Obtener")]
         public List<Cooperativa> Get_listar_cooperativas(Listar model)
         {
             return _cooperativa_db.listar_cooperativas(model.columna, model.nombre, model.offset, model.limit, model.sort);
@@ -56,45 +57,6 @@ namespace viaje.express.api.Controllers
         {
             return _cooperativa_db.eliminar_cooperativa(id, model.Deleted_by);
         }
-
-        /*[HttpGet]
-        public List<Cooperativa_old> Get()
-        {
-            return _cooperativaBd.Listar();
-        }
-
-        [HttpGet]
-        [Route("{id}")]
-        public Cooperativa_old Get(int id)
-        {
-            return _cooperativaBd.Obtener(id);
-        }
-        [HttpGet]
-        [Route("{id}/{aux}")]
-        public Cooperativa_old Get(int id, string aux)
-        {
-            return _cooperativaBd.Obtener_Usuario(id, aux);
-        }
-        [HttpPost]
-        public Cooperativa_old Post(Cooperativa_old model)
-        {
-            return _cooperativaBd.Insertar(model.IdPersonarol, model.Nombrecoop, model.DireccionCoop, model.TelefonoCoop, model.CreatedBy);
-        }
-
-        [HttpPut]
-        [Route("{id}")]
-        public Resultado Put(int id, Cooperativa_old model)
-        {
-            return _cooperativaBd.Modificar(id,model.IdPersonarol, model.Nombrecoop, model.DireccionCoop, model.TelefonoCoop, model.ModifiedBy);
-        }
-
-        [HttpDelete]
-        [Route("{id}")]
-        public Resultado Delete(int id)
-        {
-            int deletedBy = 0;
-            return _cooperativaBd.Eliminar(id, deletedBy );
-        }*/
 
     }
 }

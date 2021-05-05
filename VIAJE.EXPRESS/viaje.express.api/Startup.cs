@@ -7,6 +7,7 @@ using Microsoft.OpenApi.Models;
 using viaje.express.data;
 using viaje.express.data.DataLogin;
 using viaje.express.data.DataCooperativa;
+using viaje.express.data.DataModulo;
 
 namespace viaje.express.api
 {
@@ -43,8 +44,12 @@ namespace viaje.express.api
 
             services.AddTransient<Prueba_bd>();
 
+
+
+
             services.AddTransient<Login_db>();
             services.AddTransient<Cooperativa_db>();
+            services.AddTransient<Modulo_db>();
 
             services.AddCors();
             services.AddControllers();

@@ -23,7 +23,17 @@ namespace viaje.express.api.Controllers
         [HttpPost]
         public ResultadoLogin iniciar(LoginParametros model)
         {
-            return _login_Db.login(model.correo, model.clave);
+            string token = Guid.NewGuid().ToString();
+            ResultadoLogin mod = _login_Db.login(model.correo, model.clave, token);
+            if(mod.exito)
+            {
+                mod.token = token;
+               
+                return mod;
+            } else
+            {
+                return mod;
+            }
         }
     }
 }

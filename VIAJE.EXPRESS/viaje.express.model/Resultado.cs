@@ -2,7 +2,6 @@
 
 namespace viaje.express.model
 {
-	[Tabla("persona")]
 	public class Resultado
     {
 
@@ -13,6 +12,9 @@ namespace viaje.express.model
 
 		[Columna("codigo")]
 		public int Codigo { get; set; }
+
+		[Columna("data")]
+		public object data { get; set; }
 
 		[Columna("mensaje")]
 		public string Mensaje { get; set; }
