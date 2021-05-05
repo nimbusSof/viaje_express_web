@@ -22,7 +22,7 @@ function listarVehiculos() {
                     " <li> <input type='button'  class='boton' name='act' id='act' " +
                     "onclick='actualizar(" + item.vehiculoId + ")' value='Actualizar' style='width: 30'></li><li> <input type='button'  class='boton' name='crear' id='crear' " +
                     "onclick='eliminar_Vehiculo(" + item.vehiculoId + ")' value='Eliminar' style='width: 30'></li> </ul>";
-               
+
                 +" </ul></td></tr>";
             }
         })
@@ -43,10 +43,52 @@ function listarUsuarios() {
         .catch(
         )
 }
-function validar() {
-   
 
-    const url = 'http://localhost:59454/Persona/' + document.getElementById("usuario").value+'/'+ document.getElementById("pass").value
+
+function mostrar() {
+
+ 
+    //alert('JAJajAJ');
+    // location.href = '../Adminitrador/Inicio';
+    const url = 'http://localhost:59454/Cooperativa';
+     var _correo = document.getElementById("correo").value;
+     var _clave = document.getElementById("clave").value;
+ 
+     // alert(_correo + "  " + _clave);
+     const data = {
+         correo: _correo,
+         clave: _clave
+    };
+    const data2 = {
+        offset: 0,
+        limit: 10
+     };
+
+    //POST request with body equal on data in JSON format
+    fetch('http://localhost:59454/Cooperativa/Obtener', {
+        method:'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data2),
+    })
+        .then((response) => response.json())
+        //Then with the data from the response in JSON...
+        .then((data) => {
+           /* location.href = '../Administrador/Inicio';*/
+            console.log('Success:', data);
+        })
+        //Then with the error genereted...
+        .catch((error) => {
+            console.error('Error:', error);
+        });
+
+}
+
+function validar() {
+
+
+    const url = 'http://localhost:59454/Persona/' + document.getElementById("usuario").value + '/' + document.getElementById("pass").value
     fetch(url)
         .then(response => response.json())
         .then(data => {
@@ -56,9 +98,9 @@ function validar() {
             sessionStorage.setItem('id_persona', data.idPersona);
 
             validarUsuario(id_usuario)
-        
-            
-          
+
+
+
         })
         .catch(err => alert("Usuario o contrasenia erroneosjijijijihhuhuh")
 
@@ -93,7 +135,7 @@ function validarUsuarioRol(id_rol) {
         .then(data => {
             var rol = data['descrpcionRol']
             sessionStorage.setItem('rol', rol);
-            var a=1
+            var a = 1
             switch (rol) {
                 case "Administrador":
                     location.href = '../Home/Privacy'
@@ -111,10 +153,10 @@ function validarUsuarioRol(id_rol) {
                 default:
                     location.href = '../Cliente/Cliente'
                     break
-            }          
+            }
         })
         .catch(err => alert("Usuario o contrasenia erroneos")
-    )
+        )
 }
 function ObtenerCooperativa() {
     const url = 'http://localhost:59454/Cooperativa/' + sessionStorage.getItem('id_personaRol') + '/' + 'd'
@@ -124,13 +166,13 @@ function ObtenerCooperativa() {
 
             resultado = data['idCoop'];
             sessionStorage.setItem('id_cooperativa', resultado);
-           // alert("ID COOPERATIVA: " + resultado)
-           
+            // alert("ID COOPERATIVA: " + resultado)
+
 
         })
         .catch(err => alert("Error" + err))
 }
-function crear_Persona(){
+function crear_Persona() {
 
     var cedula = document.getElementById('Cedula').value;
     var nombre = document.getElementById('Nombre').value;
@@ -141,8 +183,8 @@ function crear_Persona(){
     var correo = document.getElementById('Correo').value;
     var contrasenia = document.getElementById('Contrasena').value;
     var nusuario = document.getElementById('NUsuario').value;
-    let Persona = 
-       {
+    let Persona =
+    {
         "cedulaPersona": cedula,
         "nombrePersona": nombre,
         "apellidosPersona": apellidos,
@@ -154,23 +196,23 @@ function crear_Persona(){
         "createdBy": sessionStorage.getItem('id_persona'),
         "personaNombreUsuario": nusuario
     }
-   
+
     fetch('http://localhost:59454/Persona', {
         method: 'POST',
         body: JSON.stringify(Persona),
         headers: { "Content-type": "application/json; charset=UTF-8" }
     }).then(response => {
-       var a = 1
+        var a = 1
     }
     )
-    .catch(error => console.error(error + "AQQUIII"));
+        .catch(error => console.error(error + "AQQUIII"));
 }
 
-function crear_Chofer( cooperativaId, personaRolId, vehiculoId) {
+function crear_Chofer(cooperativaId, personaRolId, vehiculoId) {
 
     let Chofer =
     {
-       
+
         "cooperativaId": cooperativaId,
         "presonaRolId": personaRolId,
         "vehiculoId": vehiculoId,
@@ -207,7 +249,7 @@ function listarOperador() {
 }
 function crear_Vehiculo() {
 
-   
+
 
     let Vehiculo =
     {
@@ -230,7 +272,7 @@ function crear_Vehiculo() {
     }
     )
         .catch(error => alert("Error al ingresar el Vehículo"))
-    
+
 }
 
 function crear_Cooperativa() {
@@ -270,7 +312,7 @@ function eliminar_Vehiculo(id_vehiculo) {
             var a = 1
             alert("Se han guardado los cambios")
             location.href = '/VehiCRUDController2/Index'
-    
+
         }).catch(err => alert("Error al Eliminar el vehiculo"));
     } else {
         alert("Cancelado");
@@ -282,7 +324,7 @@ function actualizar(id_vehiculo) {
     Promise(fetch(url)
         .then(response => response.json())
         .then(data => {
-        console.log(data)
+            console.log(data)
             sessionStorage.setItem('vehiculoId', id_vehiculo);
             sessionStorage.setItem('cooperativaIdV', data['cooperativaId']);
             sessionStorage.setItem('vehiculoPlacaVehiculo', data['vehiculoPlacaVehiculo']);
@@ -290,10 +332,10 @@ function actualizar(id_vehiculo) {
             location.href = '/EditVehiculo/Index';
         }))
         .catch(err => alert("Error al seleccionar el Vehiculo")
-        )  
+        )
 }
 function valoresVehiculo() {
-   
+
     var padreP = document.getElementById("PlacaV");
     var input = document.createElement("INPUT");
     input.type = 'text';
@@ -309,7 +351,7 @@ function valoresVehiculo() {
     input.id = "Color";
     input.placeholder = "Ingrese el Color del vehiculo";
     input.value = sessionStorage.getItem('vehiculoColorVehiculo');
-    padreC.appendChild(input);  
+    padreC.appendChild(input);
 }
 function actualizar_Vehiculo() {
     var confirmacion = confirm("Desea Guardar los cambios el vehículo con id: " + sessionStorage.getItem('vehiculoId'));

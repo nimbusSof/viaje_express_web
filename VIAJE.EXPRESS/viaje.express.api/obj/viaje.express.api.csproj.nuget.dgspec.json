@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj": {}
+    "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj": {}
   },
   "projects": {
-    "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj": {
+    "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj",
+        "projectUniqueName": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj",
         "projectName": "viaje.express.api",
-        "projectPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj",
-        "packagesPath": "C:\\Users\\Elirpme\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.api\\obj\\",
+        "projectPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.api\\viaje.express.api.csproj",
+        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Elirpme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -35,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj": {
-                "projectPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj"
+              "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj": {
+                "projectPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj"
               }
             }
           }
@@ -114,25 +111,22 @@
         }
       }
     },
-    "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj": {
+    "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj",
+        "projectUniqueName": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj",
         "projectName": "viaje.express.data",
-        "projectPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj",
-        "packagesPath": "C:\\Users\\Elirpme\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.data\\obj\\",
+        "projectPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.data\\viaje.express.data.csproj",
+        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Elirpme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -145,8 +139,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj": {
-                "projectPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj"
+              "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj": {
+                "projectPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj"
               }
             }
           }
@@ -222,25 +216,22 @@
         }
       }
     },
-    "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj": {
+    "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj",
+        "projectUniqueName": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj",
         "projectName": "viaje.express.model",
-        "projectPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj",
-        "packagesPath": "C:\\Users\\Elirpme\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.model\\obj\\",
+        "projectPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.model\\viaje.express.model.csproj",
+        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Elirpme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

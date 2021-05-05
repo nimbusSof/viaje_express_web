@@ -24,7 +24,7 @@ namespace viaje.express.web.Controllers
             _logger = logger;
         }
 
-        public IActionResult Inicio()
+        public IActionResult Index()
         {
             return View();
         }

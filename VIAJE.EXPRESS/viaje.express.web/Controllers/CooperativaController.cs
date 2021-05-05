@@ -8,7 +8,7 @@ namespace viaje.express.web.Controllers
 {
     public class CooperativaController : Controller
     {
-        public IActionResult Cooperativa()
+        public IActionResult Index()
         {
             return View();
         }
