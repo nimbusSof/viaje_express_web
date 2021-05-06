@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj": {}
+    "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj": {
+    "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj",
+        "projectUniqueName": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj",
         "projectName": "viaje.express.web",
-        "projectPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj",
-        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\OneDrive - Universidad Tecnica del Norte\\Escritorio\\Pfinal\\Poyecto-ViajesExpres\\VIAJE.EXPRESS\\viaje.express.web\\obj\\",
+        "projectPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.web\\viaje.express.web.csproj",
+        "packagesPath": "C:\\Users\\Elirpme\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad Tecnica Del Norte\\Pasantias\\APIRest\\viaje.expressVersion2\\VIAJE.EXPRESS\\viaje.express.web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elirpme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

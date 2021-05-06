@@ -13,10 +13,10 @@ namespace viaje.express.model
 		[Columna("codigo")]
 		public int Codigo { get; set; }
 
-		[Columna("data")]
-		public object data { get; set; }
-
 		[Columna("mensaje")]
 		public string Mensaje { get; set; }
+
+		[Columna("data")]
+		public object Data { get; set; }	
 	}
 }
