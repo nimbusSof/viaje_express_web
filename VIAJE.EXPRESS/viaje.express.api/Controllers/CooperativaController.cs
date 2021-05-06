@@ -99,7 +99,7 @@ namespace viaje.express.api.Controllers
 
             if (bc.verificar(token))
             {
-                return _cooperativa_db.insertar_cooperativa(model.id_persona_rol_admin_coop, model.nombre, model.direccion, model.telefono,
+                return _cooperativa_db.insertar_cooperativa(model.id_persona_rol_admin, model.nombre, model.direccion, model.telefono,
                         model.lat, model.lng, model.activo, model.Created_by);
             }
             else

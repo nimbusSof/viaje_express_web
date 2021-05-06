@@ -10,8 +10,8 @@ namespace viaje.express.model.ModelCooperativa
         [Columna("id_cooperativa")]
         public int id_cooperativa { get; set; }
 
-        [Columna("id_persona_rol_admin_coop")]
-        public int id_persona_rol_admin_coop { get; set; }
+        [Columna("id_persona_rol_admin")]
+        public int id_persona_rol_admin { get; set; }
 
         [Columna("nombre")]
         public string nombre { get; set; }
