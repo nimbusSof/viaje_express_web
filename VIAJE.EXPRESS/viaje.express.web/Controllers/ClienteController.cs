@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace viaje.express.web.Controllers
 {
-    public class AdministradorController : Controller
+    public class ClienteController : Controller
     {
         public IActionResult Index()
-        {
-            return View();
-        }
-        public IActionResult Cooperativa()
         {
             return View();
         }

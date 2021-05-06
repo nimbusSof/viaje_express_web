@@ -5,3 +5,42 @@
 
 <h1>ADMINISTRADOR</h1>
 
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var id_usuario_rol = localStorage.getItem('id_usuario_rol')
+            let listarmodulo = document.getElementById('modulos');
+            var url = `http://localhost:59454/Modulo/ ${id_usuario_rol}`;
+            fetch(url)
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+                    if (data['exito']) {
+                        var modul = data['data'];
+                        modul.forEach((item) => {
+                            listarmodulo.innerHTML += `
+                                    <li class="">
+                                    <a onclick="navegar('Cooperativa/Index')" class="waves-effect waves-dark">
+                                        <span class="pcoded-micon">
+                                              <i class="feather icon-command"></i>
+                                         </span>
+                                          <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
+                                    </a>
+                                    </li>`
+                        });
+                        //modul.forEach((item) => console.log(item['ruta']));
+                    } else {
+                        alert(data['mensaje']);
+                    }
+                    //console.log(data);
+
+                }).catch((error) => alert(error));
+
+        });
+
+        function navegar(ruta) {
+            location.href = `../${ruta}`;
+        }
+    </script>
+}

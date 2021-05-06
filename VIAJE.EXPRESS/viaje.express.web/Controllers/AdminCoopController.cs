@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace viaje.express.web.Controllers
 {
-    public class DashboardController : Controller
+    public class AdminCoopController : Controller
     {
         public IActionResult Index()
         {

@@ -46,11 +46,7 @@ function listarUsuarios() {
 
 
 function mostrar() {
-
- 
-    //alert('JAJajAJ');
-    // location.href = '../Adminitrador/Inicio';
-    const url = 'http://localhost:59454/Cooperativa';
+    const url = 'http://localhost:59454/Login';
      var _correo = document.getElementById("correo").value;
      var _clave = document.getElementById("clave").value;
  
@@ -59,31 +55,31 @@ function mostrar() {
          correo: _correo,
          clave: _clave
     };
-    const data2 = {
-        offset: 0,
-        limit: 10
-     };
 
     //POST request with body equal on data in JSON format
-    fetch('http://localhost:59454/Cooperativa/Obtener', {
+    fetch(url, {
         method:'POST',
         headers: {
             'Content-Type': 'application/json',
         },
-        body: JSON.stringify(data2),
+        body: JSON.stringify(data),
     })
         .then((response) => response.json())
         //Then with the data from the response in JSON...
         .then((data) => {
-           /* location.href = '../Administrador/Inicio';*/
-            console.log('Success:', data);
+            
+            //console.log('Success:', data);
         })
         //Then with the error genereted...
         .catch((error) => {
-            console.error('Error:', error);
+            alert('Error:', error);
         });
 
 }
+
+
+
+
 
 function validar() {
 
@@ -128,6 +124,7 @@ function validarUsuario(id_usuario) {
         )
 
 }
+
 function validarUsuarioRol(id_rol) {
     const url = 'http://localhost:59454/Rol/' + id_rol
     fetch(url)
