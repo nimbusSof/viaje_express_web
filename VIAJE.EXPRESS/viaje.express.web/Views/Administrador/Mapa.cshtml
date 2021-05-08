@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "Mapa";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+<h1>Mapa</h1>
+@section styles{
+    <style>
+        #map1 {
+            min-height: 800px;
+            max-height: 800px;
+        }
+    </style>
+}
+
+<div class="card">
+    <div class="card-body" id="map1"></div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var token = localStorage.getItem('id_token');
+            console.log('Este es e token: ' + token);
+            var id_usuario_rol = localStorage.getItem('id_usuario_rol');
+            let listarmodulo = document.getElementById('modulos');
+            var url = `http://localhost:59454/Modulo/ ${id_usuario_rol}`;
+            fetch(url, {
+                headers: {
+                    'Content-Type': 'application/json',
+                    'token': token,
+                },
+            })
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+                    if (data['exito']) {
+                        var modul = data['data'];
+                        modul.forEach((item) => {
+                            listarmodulo.innerHTML += `
+                                                        <li class="">
+                                                        <a onclick="navegar('${item['ruta']}')" class="waves-effect waves-dark">
+                                                            <span class="pcoded-micon">
+                                                                  <i class="feather icon-command"></i>
+                                                             </span>
+                                                              <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
+                                                        </a>
+                                                        </li>`
+                        });
+                        //modul.forEach((item) => console.log(item['ruta']));
+                    } else {
+                        alert('Mensaje de modulo:' + data['mensaje']);
+                    }
+                    //console.log(data);
+
+                }).catch((error) => alert(error));
+
+        });
+
+        function navegar(ruta) {
+            //console.log(`../${ruta}`);
+            location.href = `../${ruta}`;
+        }
+        var map = L.map('map1').setView([0.04104004628590023, -78.14285258539633], 13);
+        //[0.04104004628590023, -78.14285258539633], 13
+
+        L.marker([48.86, 2.35]).addTo(map);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+    </script>
+}

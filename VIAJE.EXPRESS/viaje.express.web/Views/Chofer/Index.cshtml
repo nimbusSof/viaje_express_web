@@ -3,6 +3,204 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
 }
+<div class="col-sm-12">
+    <!-- Customer overview start -->
+    <div class="card ">
+        <div class="card-header">
+            <button class="btn btn-round waves-light btn-primary" id="crear_cooperativa">
+                <i class="fa fa-plus-square"></i>
+                Nueva Cooperativa
+            </button>
 
-<h1>Index</h1>
+        </div>
+    </div>
 
+    <div class="modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content" id="modalbody">
+                <div class="modal-header">
+                    <h4 class="modal-title">Nueva Cooperativa</h4>
+                    <button type="button" class="close"
+                            data-dismiss="modal"
+                            aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <span id="form_result"></span>
+                    <form id="my-form" method="post">
+                        <div>
+                            <h3>Cooperativa</h3>
+                            <section>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group row">
+                                            <label class="col-sm-4 col-form-label">
+                                                Nombre
+                                            </label>
+                                            <div class="col-md-8">
+                                                <input type="text" id="nombre" name="nombre" class="form-control required">
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-4 col-form-label">
+                                                Dirección
+                                            </label>
+                                            <div class="col-md-8">
+                                                <input type="text" id="direccion" name="direccion" class="form-control required">
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-4 col-form-label">
+                                                Teléfono
+                                            </label>
+                                            <div class="col-md-8">
+                                                <input type="text" id="telefono" name="telefono" class="form-control required">
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-4 col-form-label">
+                                                Latitud
+                                            </label>
+                                            <div class="col-md-8">
+                                                <input type="text" id="lat" name="lat" class="form-control required" disabled>
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-4 col-form-label">
+                                                Longitud
+                                            </label>
+                                            <div class="col-md-8">
+                                                <input type="text" id="lng" name="lng" class="form-control required" disabled>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <h1>MI PAPA</h1>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <h3>Admin Cooperativa</h3>
+                            <section>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Cedula
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="cedula_a" name="cedula_a" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Nombre
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="nombres" name="nombres_a" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Apellido
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="apellidos_a" name="apellidos_a" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Teléfono
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="telefono_a" name="telefono_a" class="form-control">
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts{
+    <script>
+        var form = $("#my-form");
+        // form.validate();
+        form.children("div").steps({
+            headerTag: "h3",
+            bodyTag: "section",
+            transitionEffect: "slideLeft",
+            onStepChanging: function (event, currentIndex, newIndex) {
+                form.validate(
+                    {
+                        errorPlacement: function errorPlacement(error, element) { element.after(error); },
+                        messages: {
+                            nombre: {
+
+                                required: "El nombre es requerido.",
+                            },
+                            direccion: {
+                                required: "La direccion es requerida."
+                            },
+                            telefono: {
+                                required: "El telefono es requerido."
+                            },
+                            lat: {
+                                required: "La latitud es requerida."
+                            },
+                            lng: {
+                                required: "La longitud es requerida."
+                            }
+                        }
+                    }
+
+                );
+                return form.valid();
+            }, onFinishing: function (event, currentIndex) {
+                form.validate().settings.ignore = ":disabled";
+                return form.valid();
+            },
+            onFinished: function (event, currentIndex) {
+                form.validate(
+                    {
+                        errorPlacement: function errorPlacement(error, element) { element.after(error); },
+                        messages: {
+                            cedula_a: {
+                                required: "la cedula es requerida."
+                            },
+                            nombres_a: {
+                                required: "Los nombres son requeridos."
+                            },
+                            apellidos_a: {
+                                required: "Los apellidos so requeridos."
+                            },
+                            telefono_a: {
+                                required: "El telefono es requerido."
+                            }
+                        }
+                    }
+                );
+            }
+        });
+
+
+        $('#crear_cooperativa').click(function () {
+            $('.modal-title').text('Agregar nueva Cooperativa');
+            $('#action_button').val('Add');
+            $('#action').val('Add');
+            $('#form_result').html('');
+            $('#formModal').modal('show');
+            $('.error').hide();
+        });
+
+    </script>
+
+}

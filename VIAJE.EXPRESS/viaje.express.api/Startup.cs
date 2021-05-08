@@ -8,6 +8,7 @@ using viaje.express.data;
 using viaje.express.data.DataLogin;
 using viaje.express.data.DataCooperativa;
 using viaje.express.data.DataModulo;
+using viaje.express.data.DataUsuario;
 
 namespace viaje.express.api
 {
@@ -50,6 +51,8 @@ namespace viaje.express.api
             services.AddTransient<Login_db>();
             services.AddTransient<Cooperativa_db>();
             services.AddTransient<Modulo_db>();
+            services.AddTransient<Entities_db>();
+            services.AddTransient<Usuario_db>();
 
             services.AddCors();
             services.AddControllers();
