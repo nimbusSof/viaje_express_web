@@ -53,6 +53,7 @@ namespace viaje.express.api
             services.AddTransient<Modulo_db>();
             services.AddTransient<Entities_db>();
             services.AddTransient<Usuario_db>();
+            services.AddTransient<UsuarioCooperativa_db>();
 
             services.AddCors();
             services.AddControllers();

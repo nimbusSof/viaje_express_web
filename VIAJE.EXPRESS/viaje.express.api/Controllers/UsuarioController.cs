@@ -60,5 +60,26 @@ namespace viaje.express.api.Controllers
             }
 
         }
+
+        /*[HttpPost]
+        [Route("AdministradorCooperativa")]
+        public Resultado Post_insertar_administrador_cooperativa(UsuarioAdministradorCooperativa model, [FromHeader] string token = "")
+        {
+            Resultado r = new Resultado();
+            r.Exito = false;
+            r.Codigo = 0;
+
+            if (bc.verificar(token))
+            {
+                return _usuario_db.insertar_usuario_admin_coop(model.cedula, model.nombre, model.apellido, model.fecha_nacimiento,
+                        model.telefono, model.correo, model.clave, model.path_foto, model.id_cooperativa, model.Created_by);
+            }
+            else
+            {
+                r.Mensaje = bc.mensaje;
+                r.Codigo = bc.codigo;
+                return r;
+            }
+        }*/
     }
 }

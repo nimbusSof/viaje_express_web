@@ -9,7 +9,7 @@ namespace viaje.express.model
 
 		[Columna("exito")]
 		public bool Exito { get; set; }
-
+		
 		[Columna("codigo")]
 		public int Codigo { get; set; }
 
