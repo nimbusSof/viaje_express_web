@@ -56,10 +56,16 @@ namespace viaje.express.web
                     pattern: "{controller=Administrador}/{action=Index}/{id?}");
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Dashboard}/{action=Index}/{id?}");
+                    pattern: "{controller=AdminCoop}/{action=Index}/{id?}");
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Cooperativa}/{action=Index}/{id?}");
+                    pattern: "{controller=Operador}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Chofer}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Cliente}/{action=Index}/{id?}");
             });
         }
     }

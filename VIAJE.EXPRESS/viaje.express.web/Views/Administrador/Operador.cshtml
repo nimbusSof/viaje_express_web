@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewData["Title"] = "Operador";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+<h1>Operador</h1>
+
+
+
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var token = localStorage.getItem('id_token');
+            console.log('Este es e token: ' + token);
+            var id_usuario_rol = localStorage.getItem('id_usuario_rol');
+            let listarmodulo = document.getElementById('modulos');
+            var url = `http://localhost:59454/Modulo/ ${id_usuario_rol}`;
+            fetch(url, {
+                headers: {
+                    'Content-Type': 'application/json',
+                    'token': token,
+                },
+            })
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+                    if (data['exito']) {
+                        var modul = data['data'];
+                        modul.forEach((item) => {
+                            listarmodulo.innerHTML += `
+                                            <li class="">
+                                            <a onclick="navegar('${item['ruta']}')" class="waves-effect waves-dark">
+                                                <span class="pcoded-micon">
+                                                      <i class="feather icon-command"></i>
+                                                 </span>
+                                                  <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
+                                            </a>
+                                            </li>`
+                        });
+                        //modul.forEach((item) => console.log(item['ruta']));
+                    } else {
+                        alert('Mensaje de modulo:' + data['mensaje']);
+                    }
+                    //console.log(data);
+
+                }).catch((error) => alert(error));
+
+        });
+
+        function navegar(ruta) {
+            //console.log(`../${ruta}`);
+            location.href = `../${ruta}`;
+        }
+    </script>
+}

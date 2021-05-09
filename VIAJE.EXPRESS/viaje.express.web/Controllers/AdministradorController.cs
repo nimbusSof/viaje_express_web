@@ -12,5 +12,17 @@ namespace viaje.express.web.Controllers
         {
             return View();
         }
+        public IActionResult Cooperativa()
+        {
+            return View();
+        }
+        public IActionResult AdminCooperativa()
+        {
+            return View();
+        }
+        public IActionResult Mapa()
+        {
+            return View();
+        }
     }
 }
