@@ -89,15 +89,15 @@
                                         Cedula
                                     </label>
                                     <div class="col-md-8">
-                                        <input type="text" id="cedula_a" name="cedula_a" class="form-control">
+                                        <input type="text" id="cedulau" name="cedulau" class="form-control required">
                                     </div>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-4 col-form-label">
-                                        Nombre
+                                        Nombres
                                     </label>
                                     <div class="col-md-8">
-                                        <input type="text" id="nombres" name="nombres_a" class="form-control">
+                                        <input type="text" id="nombresu" name="nombresu" class="form-control required">
                                     </div>
                                 </div>
                                 <div class="form-group row">
@@ -105,7 +105,7 @@
                                         Apellido
                                     </label>
                                     <div class="col-md-8">
-                                        <input type="text" id="apellidos_a" name="apellidos_a" class="form-control">
+                                        <input type="text" id="apellidosu" name="apellidosu" class="form-control required">
                                     </div>
                                 </div>
                                 <div class="form-group row">
@@ -113,10 +113,12 @@
                                         Teléfono
                                     </label>
                                     <div class="col-md-8">
-                                        <input type="text" id="telefono_a" name="telefono_a" class="form-control">
+                                        <input type="text" id="telefonou" name="telefonou" class="form-control required">
                                     </div>
                                 </div>
                             </section>
+                            <h3>Finalizar</h3>
+                            <section></section>
                         </div>
                     </form>
 
@@ -158,36 +160,37 @@
                             },
                             lng: {
                                 required: "La longitud es requerida."
+                            },
+                            cedulau: {
+                                required: "La cedula es requerida."
+                            },
+                            nombresu: {
+                                required: "Los nombres son requeridos."
+                            },
+                            apellidosu: {
+                                required: "Los apellidos so requeridos."
+                            },
+                            telefonou: {
+                                required: "El telefono es requerido."
                             }
                         }
                     }
 
                 );
                 return form.valid();
-            }, onFinishing: function (event, currentIndex) {
-                form.validate().settings.ignore = ":disabled";
+            },
+            onFinishing: function (event, currentIndex) {
+                form.validate();
                 return form.valid();
             },
             onFinished: function (event, currentIndex) {
-                form.validate(
-                    {
-                        errorPlacement: function errorPlacement(error, element) { element.after(error); },
-                        messages: {
-                            cedula_a: {
-                                required: "la cedula es requerida."
-                            },
-                            nombres_a: {
-                                required: "Los nombres son requeridos."
-                            },
-                            apellidos_a: {
-                                required: "Los apellidos so requeridos."
-                            },
-                            telefono_a: {
-                                required: "El telefono es requerido."
-                            }
-                        }
-                    }
-                );
+                form.validate();
+                if (form.valid) {
+                    console.log('Validado');
+                    //Guardar Datos
+                } else {
+                    console.log('No validado');
+                }
             }
         });
 
