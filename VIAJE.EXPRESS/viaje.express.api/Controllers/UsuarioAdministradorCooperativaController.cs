@@ -42,7 +42,7 @@ namespace viaje.express.api.Controllers
                 if (rp.Exito)
                 {
                     Resultado rm = _usuario_cooperativa_db.insertar_usuario_rol__modulo(
-                        model.id_persona_rol_ejecucion, rp.Codigo, 2); // 3 -> modulo de operadores
+                        model.id_persona_rol_ejecucion, rp.Codigo, 3); // 3 -> modulo de operadores
                     if (rm.Exito)
                     {
                         result.Exito = true;

@@ -6,3 +6,119 @@
 
 <h1>AdminCooperativa</h1>
 
+<div class="col-sm-12">
+    <div class="card ">
+        <div class="card-block">
+            <div class="table-responsive dt-responsive">
+                <table class="table table-striped table-bordered nowrap" id="tblAdminCoop">
+                    <thead>
+                        <tr>
+                            <th>Cedula</th>
+                            <th>Nombre</th>
+                            <th>Apellido</th>
+                            <th>Correo</th>
+                            <th>Telefono</th>
+                            <th>Cooperativa</th>
+                            <th>Acción</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+@section Scripts{
+    <script>
+        var url = 'http://localhost:59454';
+        var listarmodulo;
+        var token;
+        var id_usuario_rol;
+        let consult = {
+            "offset": 0,
+            "limit": 50
+        }
+        $(document).ready(function () {
+            token = localStorage.getItem('id_token');
+            id_usuario_rol = localStorage.getItem('id_usuario_rol');
+            listarmodulo = document.getElementById('modulos');
+            let _url = `${url}/Modulo/${id_usuario_rol}`;
+            fetch(_url, {
+                headers: {
+                    'Content-Type': 'application/json',
+                    'token': token,
+                },
+            })
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+                    if (data['exito']) {
+                        var modul = data['data'];
+                        modul.forEach((item) => {
+                            listarmodulo.innerHTML += `
+                                                                                                   <li class="">
+                                                                                                         <a onclick="navegar('${item['ruta']}')" class="waves-effect waves-dark">
+                                                                                                           <span class="pcoded-micon"> <i class="feather icon-command"></i> </span>
+                                                                                                            <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
+                                                                                                         </a>
+                                                                                                  </li>`
+                        });
+                    } else {
+                        alert(data['mensaje']);
+                    }
+
+                }).catch((error) => alert(error));
+            obtenerAdministradoresCoop();
+        });
+        function navegar(ruta) {
+            location.href = `../${ruta}`;
+        }
+
+        function obtenerAdministradoresCoop() {
+            $.ajax({
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json',
+                    'token': token
+                },
+                url: `${url}/UsuarioAdministradorCooperativa/Listar`,
+                type: "POST",
+                data: JSON.stringify(consult),
+                dataType: "json",
+                success: function (data) {
+                    datatable = $("#tblAdminCoop").DataTable();
+                    datatable.destroy();
+                    // $('#tblCoop').empty();
+                    datatable = $('#tblAdminCoop').DataTable({
+                        processing: false,
+                        serverSide: false,
+                        responsive: true,
+                        autoWidth: false,
+                        data: data['data'],
+                        columns: [
+                            { data: "cedula" },
+                            { data: "nombre" },
+                            { data: "apellido" },
+                            { data: "correo" },
+                            { data: "telefono" },
+                            { data: "nombre_cooperativa" },
+                            {
+                                data: "id_persona_rol", "render": function (data) {
+                                    var id = data;
+                                    return '<button type="button"  name="edit" id="' + id + '"  class="edit btn btn-primary btn-sm"> <i class="fa fa-edit fa-lg"></i></button> <button type="button"   name="delete" id="' + id + '" class="delete btn btn-danger btn-sm"><i class="fa fa-trash fa-lg"></i> </button>';
+                                }
+                            }
+                        ]
+                    });
+
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+            });
+        }
+
+    </script>
+}

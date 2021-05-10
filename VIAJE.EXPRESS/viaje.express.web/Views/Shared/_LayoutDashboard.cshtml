@@ -43,7 +43,7 @@
             max-height: 500px;
         }
     </style>
-    @RenderSection("styles", required: false);
+    @RenderSection("styles", required: false)
 </head>
 <body>
     <!-- [ Pre-loader ] start -->
@@ -58,8 +58,8 @@
             <nav class="navbar header-navbar pcoded-header">
                 <div class="navbar-wrapper">
                     <div class="navbar-logo">
-                        <a href="@Url.Action("Index","Administrador")">
-                            <img class="img-fluid" src="~/assets/resources/assets/images/logo.png" alt="Theme-Logo" />
+                        <a href="#!">
+                            <img class="img-fluid" src="~/assets/resources/assets/images/logo4.png" alt="Theme-Logo" />
                         </a>
                         <a class="mobile-menu" id="mobile-collapse" href="#!">
                             <i class="feather icon-menu icon-toggle-right"></i>
@@ -154,24 +154,24 @@
                                     <div class="dropdown-toggle" data-toggle="dropdown">
                                         <img src="~/assets/resources/assets/images/avatar-4.jpg" class="img-radius"
                                              alt="User-Profile-Image">
-                                        <span>John Doe</span>
+                                            <span class="user_name"></span>
                                         <i class="feather icon-chevron-down"></i>
                                     </div>
                                     <ul class="show-notification profile-notification dropdown-menu"
                                         data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
                                         <li>
                                             <a href="#!">
-                                                <i class="feather icon-settings"></i> Settings
+                                                <i class="feather icon-settings"></i> Configuración
 
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#">
-                                                <i class="feather icon-user"></i> Profile
+                                                <i class="feather icon-user"></i> Perfil
 
                                             </a>
                                         </li>
-                                        <li>
+                                        @*<li>
                                             <a href="email-inbox.html">
                                                 <i class="feather icon-mail"></i> My Messages
 
@@ -182,9 +182,9 @@
                                                 <i class="feather icon-lock"></i> Lock Screen
 
                                             </a>
-                                        </li>
+                                        </li>*@
                                         <li>
-                                            <a href="auth-sign-in-social.html">
+                                            <a onclick="cerrar_sesion()">
                                                 <i class="feather icon-log-out"></i> Logout
 
                                             </a>
@@ -202,38 +202,22 @@
                     <nav class="pcoded-navbar">
                         <div class="nav-list">
                             <div class="pcoded-inner-navbar main-menu">
-                                <div class="pcoded-navigation-label">Navigation</div>
+                                <div class="pcoded-navigation-label">Navigación</div>
                                 <ul class="pcoded-item pcoded-left-item">
                                     <li class="pcoded-hasmenu active pcoded-trigger">
                                         <a href="javascript:void(0)" class="waves-effect waves-dark">
                                             <span class="pcoded-micon"><i class="feather icon-home"></i></span>
-                                            <span class="pcoded-mtext">Dashboard</span>
+                                            <span class="pcoded-mtext">Modulos</span>
                                         </a>
-                                        <ul class="pcoded-submenu">
-                                            <li class="active">
-                                                <a href="index.html" class="waves-effect waves-dark">
-                                                    <span class="pcoded-mtext">Default</span>
-                                                </a>
-                                            </li>
-                                            <li class="">
-                                                <a href="default/dashboard-crm.html" class="waves-effect waves-dark">
-                                                    <span class="pcoded-mtext">CRM</span>
-                                                </a>
-                                            </li>
-                                            <li class="">
-                                                <a href="default/dashboard-analytics.html"
-                                                   class="waves-effect waves-dark">
-                                                    <span class="pcoded-mtext">Analytics</span>
-                                                    <span class="pcoded-badge label label-info ">NEW</span>
-                                                </a>
-                                            </li>
+                                        <ul class="pcoded-submenu" id="modulos">
                                         </ul>
                                     </li>
 
                                 </ul>
-                                <div class="pcoded-navigation-label">Modulos</div>
-                                <ul class="pcoded-item pcoded-left-item" id="modulos">
-                                </ul>
+                                @*<div class="pcoded-navigation-label">Modulos</div>
+                                    <ul class="pcoded-item pcoded-left-item" id="modulos">
+
+                                    </ul>*@
 
 
                             </div>
@@ -333,5 +317,48 @@
             integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
             crossorigin=""></script>
     @RenderSection("scripts", required: false);
+    <script>
+        $(document).ready(function () {
+            if (localStorage.getItem('id_token') == null) {
+                location.href = '../Acceso/Login';
+            }
+        });
+    </script>
+    <script>
+        var token;
+        var url = 'http://localhost:59454';
+        $(document).ready(function () {
+            token = localStorage.getItem('id_token');
+            var id_usuario_rol = localStorage.getItem('id_usuario_rol');
+            let _url = `${url}/Usuario/${id_usuario_rol}`;
+            fetch(_url, {
+                headers: {
+                    'Content-Type': 'application/json',
+                    'token': token,
+                },
+            })
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+                    if (data['exito']) {
+                        let usuario = data['data'];
+                        document.querySelector('.user_name').innerHTML = usuario['nombre'];
+                    } else {
+                        alert('Mensaje de modulo:' + data['mensaje']);
+                    }
+                }).catch((error) => alert(error));
+        });
+        function cerrar_sesion() {
+            localStorage.clear();
+            navegar('Acceso/Login');
+        }
+
+        function navegar(ruta) {
+            location.href = `../${ruta}`;
+        }
+
+
+    </script>
 </body>
 </html>

@@ -1683,3 +1683,5 @@ C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\VIAJ
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.pdb
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\viaje.express.web.genruntimeconfig.cache
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Administrador\AdminCooperativa.cshtml.g.cs
+C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Administrador\AdminCooperativa.cshtml.g.cs
+C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.web\obj\Debug\net5.0\Razor\Views\Administrador\Mapa.cshtml.g.cs

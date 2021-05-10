@@ -38,6 +38,7 @@ function inciar_session() {
 }
 
 
+
 function redireccioLogin(rol) {
 
     switch (rol) {

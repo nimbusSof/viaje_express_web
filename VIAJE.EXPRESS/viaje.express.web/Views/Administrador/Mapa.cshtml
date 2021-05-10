@@ -3,30 +3,61 @@
     ViewData["Title"] = "Mapa";
     Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
 }
-
-<h1>Mapa</h1>
 @section styles{
     <style>
         #map1 {
-            min-height: 800px;
-            max-height: 800px;
+            width: 100%
         }
     </style>
 }
 
-<div class="card">
-    <div class="card-body" id="map1"></div>
+
+<div class="col-sm-12">
+    <div class="card">
+        <div class="card-header">
+            <h5>Buscador</h5>
+        </div>
+        <div class="card-block">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="">
+                        <form method="post" id="address-search">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Ingrese la direccion">
+                                <span class="input-group-btn">
+                                    <button type="submit" class="btn btn-success">Search</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <div class="gmap1 full-page-google-map">
+                        <div id="map1" ></div>
+                    </div>
+                </div>
+                <!-- end -->
+            </div>
+        </div>
+    </div>
 </div>
 
 @section Scripts{
     <script type="text/javascript">
+        var token;
+        var map;
+        let consult = {
+            "offset": 0,
+            "limit": 10
+        }
+        var url = 'http://localhost:59454';
         $(document).ready(function () {
-            var token = localStorage.getItem('id_token');
+            token = localStorage.getItem('id_token');
             console.log('Este es e token: ' + token);
             var id_usuario_rol = localStorage.getItem('id_usuario_rol');
             let listarmodulo = document.getElementById('modulos');
-            var url = `http://localhost:59454/Modulo/ ${id_usuario_rol}`;
-            fetch(url, {
+            let _url = `${url}/Modulo/ ${id_usuario_rol}`;
+            fetch(_url, {
                 headers: {
                     'Content-Type': 'application/json',
                     'token': token,
@@ -49,27 +80,57 @@
                                                         </a>
                                                         </li>`
                         });
-                        //modul.forEach((item) => console.log(item['ruta']));
                     } else {
                         alert('Mensaje de modulo:' + data['mensaje']);
                     }
-                    //console.log(data);
 
                 }).catch((error) => alert(error));
-
+            map = L.map('map1').setView([0.04104004628590023, -78.14285258539633], 13);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+            obtenerCoop();
         });
 
         function navegar(ruta) {
-            //console.log(`../${ruta}`);
             location.href = `../${ruta}`;
         }
-        var map = L.map('map1').setView([0.04104004628590023, -78.14285258539633], 13);
-        //[0.04104004628590023, -78.14285258539633], 13
 
-        L.marker([48.86, 2.35]).addTo(map);
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+        function obtenerCoop() {
+            var _url = `${url}/Cooperativa/Listar`;
+            var customIcon = new L.Icon({
+                iconUrl: 'https://www.cooserfam.com/attachments/Image/casa-inmobiliaria.png',
+                iconSize: [50, 50],
+                iconAnchor: [25, 50]
+            });
+            $.ajax({
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json',
+                    'token': token
+                },
+                url: _url,
+                type: "POST",
+                data: JSON.stringify(consult),
+                dataType: "json",
+                success: function (data) {
+                    let datos = data['data'];
+                    let _latlng;
+                    datos.forEach((coop) => {
+                        _latlng = `[${coop['lat']},${coop['lng']}]`;
+                        L.marker([coop['lat'], coop['lng']], { icon: customIcon},{
+                            draggable: true
+                        }).bindPopup(coop['nombre']).addTo(map);
+                        console.log(_latlng);
+                    });
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+
+            });
+        }
+
     </script>
 }
