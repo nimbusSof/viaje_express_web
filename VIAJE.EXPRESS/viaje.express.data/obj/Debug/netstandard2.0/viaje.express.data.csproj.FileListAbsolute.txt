@@ -194,20 +194,6 @@ C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.expres
 C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csproj.CopyComplete
 C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.dll
 C:\Users\atdel\Documents\GitHub\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.pdb
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.deps.json
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.pdb
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\Nimbussoft.DataTables.Standard.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.model.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.model.pdb
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.AssemblyInfoInputs.cache
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.AssemblyInfo.cs
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csproj.CoreCompileInputs.cache
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csproj.CopyComplete
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.dll
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.pdb
-D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csprojAssemblyReference.cache
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.deps.json
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.dll
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.pdb
@@ -222,3 +208,17 @@ C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poye
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csproj.CopyComplete
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.dll
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.deps.json
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\Nimbussoft.DataTables.Standard.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.model.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.model.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.AssemblyInfoInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.AssemblyInfo.cs
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csproj.CoreCompileInputs.cache
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csproj.CopyComplete
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.dll
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.pdb
+D:\Universidad Tecnica Del Norte\Pasantias\APIRest\viaje.expressVersion2\VIAJE.EXPRESS\viaje.express.data\obj\Debug\netstandard2.0\viaje.express.data.csprojAssemblyReference.cache

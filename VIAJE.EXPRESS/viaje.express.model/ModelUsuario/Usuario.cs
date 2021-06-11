@@ -5,7 +5,7 @@ using Nimbussoft.BaseDeDatos;
 
 namespace viaje.express.model.ModelUsuario
 {
-    public class Usuario
+    class Usuario
     {
         [Columna("id_persona")]
         public int id_persona { get; set; }

@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Perfil Cliente";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+}
+<button id="back" class="btn btn-mat waves-effect waves-light btn-primary ">Regresar</button>
+
+<div>
+    <h2>PERFIL CLIENTE</h2>
+</div>
+<div class="col-sm-12">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="image-cropper-container">
+                    <img src="~/assets/resources/assets/images/avatar_user.png" alt="" class="crop-auto img-fluid">
+                    <h3 id="rol_descripcion"></h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Datos del Perfil</h3>
+                </div>
+                <div class="card-block">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Cedula
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="text" id="cedula_p" name="cedula_p" class="form-control required" disabled>
+                                    <label class="error" style="color:red" for="cedula_p" id="cedula_error">La cedula es requerida.</label>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Nombres
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="text" id="nombres_p" name="nombres_p" class="form-control required">
+                                    <label class="error" style="color:red" for="nombres_p" id="nombres_error">Los nombres son requeridos.</label>
+                                </div>
+                            </div>
+
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Apellido
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="text" id="apellidos_p" name="apellidos_p" class="form-control required">
+                                    <label class="error" style="color:red" for="apellido_p" id="apellido_error">El apellido es requerido.</label>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Genero
+                                </label>
+                                <div class="col-md-8">
+                                    <select name="genero_p" id="genero_p" class="form-control required">
+                                        <option value="M">Masculino</option>
+                                        <option value="F">Femenino</option>
+                                        <option value="O">Otro</option>
+                                    </select>
+                                    <label class="error" style="color:red" for="genero_p" id="genero_error">El genero es reuquerido.</label>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Teléfono
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="text" id="telefono_p" name="telefono_p" class="form-control required">
+                                    <label class="error" style="color:red" for="telefono_p" id="telefono_error">El telefono es requerido.</label>
+                                </div>
+                            </div><div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Correo
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="email" id="correo_p" name="correo_p" class="form-control required">
+                                    <label class="error" style="color:red" for="correo_p" id="correo_error">El correo es requerido.</label>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-sm-4 col-form-label">
+                                    Fecha de nacimiento
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="date" id="fechan_p" name="fechan_p" class="form-control required">
+                                    <label class="error" style="color:red" for="fechan_p" id="fechan_error">La fecha de nacimiento es requerida.</label>
+                                </div>
+                            </div>
+                            <div class="form-group row" id="resetc">
+                                <label class="col-sm-4 col-form-label">
+                                    Contraseña
+                                </label>
+                                <div class="col-md-8">
+                                    <input type="password" name="contrasenia_p" id="contrasenia_p" class="form-control required">
+                                    <label class="error" style="color:red" for="contrasenia_p" id="contrasenia_error">La contraseña.</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="button" name="guardar" id="guardar" class="btn btn-primary waves-effect waves-light "
+                            value="Add">
+                        <i class="fa fa-save"></i> Guardar Cambios
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

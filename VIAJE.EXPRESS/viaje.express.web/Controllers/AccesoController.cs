@@ -12,5 +12,12 @@ namespace viaje.express.web.Controllers
         {
             return View();
         }
+        public IActionResult Register()
+        {
+            return View();
+        } public IActionResult LoginCliente()
+        {
+            return View();
+        }
     }
 }

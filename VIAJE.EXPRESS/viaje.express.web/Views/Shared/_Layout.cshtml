@@ -5,190 +5,48 @@
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link href="~/assets/style_admin/extra-pages/comming-soon/css/style-v2.css" rel="stylesheet" />
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/modernizr.custom.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <!-- Brand/logo -->
+        <a class="navbar-brand" routerLink="">
+            <img class="profile-user-img img-fluid img-circle" src="~/images/logo-taxi.jpg" alt="User profile picture"
+                 style="width:80px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <!--Loading overlay-->
-    <div id="loading" class="dark-back">
-        <div class="loading-bar"></div>
-        <span class="loading-text opacity-0">So Excited ?</span>
-    </div>
-    <!-- Informations bar on top of the screen -->
-    <div class="info-bar bar-intro opacity-0">
-        <div class="row">
-            <div class="col-xs-12 col-sm-6 col-lg-6 info-bar-left">
-                <p>VIAJES EXPRESS</p>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-lg-6 info-bar-right">
-                <a class="action-btn trigger" asp-controller="Acceso" asp-action="Login" >Iniciar Sesion</a>
-            </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a routerLink="" class="nav-link">
+                        Home
+                    </a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a asp-controller="Acceso" asp-action="Login" class="nav-link">Iniciar Sesion</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Acceso" asp-action="LoginCliente" class="nav-link">Iniciar Sesion Cliente</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Acceso" asp-action="Register" class="nav-link">Registrar</a>
+                </li>
+            </ul>
         </div>
-    </div>
+    </nav>
+
     <div id="slider" class="sl-slider-wrapper">
 
         @RenderBody()
 
-
-        <!-- Arrow nav -->
-        @*<nav id="nav-arrows" class="nav-arrows">
-                <span class="nav-arrow-prev">Previous</span>
-                <span class="nav-arrow-next">Next</span>
-            </nav>*@
-        <!-- END - Arrow nav -->
-        <!-- Bottom nav -->
-        
-        <!-- END - Bottom nav -->
     </div>
-    <!-- Newsletter Popup -->
-    <div id="somedialog" class="dialog">
-        <div class="dialog__overlay"></div>
-        <!-- dialog__content -->
-        <div class="dialog__content">
-            <div class="header-picture"></div>
-            <!-- dialog-inner -->
-            <!-- dialog-inner -->
-            <div class="dialog-inner">
-
-                <h4>INICIAR SESION</h4>
-
-                <!-- END - Answer for the newsletter form is displayed in the next div, do not remove it. -->
-                <form method="POST">
-                    <div class="auth-box card">
-                        <div class="card-block">
-                            <div class="form-group form-primary">
-                                <input type="text" name="correo" id="correo" class="form-control" required="" placeholder="Correo">
-                                <span class="form-bar"></span>
-                                <label class="float-label">Username</label>
-                            </div>
-                            <div class="form-group form-primary">
-                                <input type="password" name="clave" id="clave" class="form-control" required="" placeholder="Contraseña">
-                                <span class="form-bar"></span>
-                                <label class="float-label">Password</label>
-                            </div>
-                            <div class="row m-t-25 text-left">
-                                <div class="col-12">
-                                    <div class="forgot-phone text-right float-right">
-                                        <a href="auth-reset-password.html" class="text-muted text-center p-b-5">Restablecer contraseña</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row m-t-30">
-                                <div class="col-md-12">
-                                    <button type="button" onclick="mostrar()" class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20">INGRESAR</button>
-
-                                </div>
-                            </div>
-                            <br />
-                            <br />
-                        </div>
-                    </div>
-
-                </form>
-            </div>
-
-            <button class="close-newsletter" data-dialog-close><i class="icon ion-android-close"></i></button>
-        </div>
-        <!-- END - dialog__content -->
-    </div>
-    <!-- END - Newsletter Popup -->
-    <!-- Root element of PhotoSwipe, the gallery. Must have class pswp. -->
-    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-        <!-- Background of PhotoSwipe.
-                It's a separate element as animating opacity is faster than rgba(). -->
-        <div class="pswp__bg"></div>
-        <!-- Slides wrapper with overflow:hidden. -->
-        <div class="pswp__scroll-wrap">
-            <!-- Container that holds slides.
-                    PhotoSwipe keeps only 3 of them in the DOM to save memory.
-                    Don't modify these 3 pswp__item elements, data is added later on. -->
-            <div class="pswp__container">
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-            </div>
-            <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-            <div class="pswp__ui pswp__ui--hidden">
-                <div class="pswp__top-bar">
-                    <!--  Controls are self-explanatory. Order can be changed. -->
-                    <div class="pswp__counter"></div>
-                    <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                    <button class="pswp__button pswp__button--share" title="Share"></button>
-                    <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                    <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-                    <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
-                    <!-- element will get class pswp__preloader - -active when preloader is running -->
-                    <div class="pswp__preloader">
-                        <div class="pswp__preloader__icn">
-                            <div class="pswp__preloader__cut">
-                                <div class="pswp__preloader__donut"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                    <div class="pswp__share-tooltip"></div>
-                </div>
-                <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-                </button>
-                <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-                </button>
-                <div class="pswp__caption">
-                    <div class="pswp__caption__center"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END - Root element of PhotoSwipe, the gallery. Must have class pswp. -->
-    @*<header id="header">
-            <h1><a href="index.html">Viajes</a>QUINSALOMA2</h1>
-            <nav id="nav">
-                <ul>
-
-                    <li> <a class="nav-link text-dark" asp-area=""  asp-controller="Home" asp-action="Inicio">IniciarSesion</a></li>
-                </ul>
-            </nav>
-        </header>
-
-
-
-        <div class="container">
-            <main role="main" class="pb-3">
-                @RenderBody()
-            </main>
-        </div>
-
-        <footer class="border-top footer text-muted">
-            <div class="container">
-                &copy; 2021 - ViajeVersion2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-            </div>
-        </footer>*@
-    <script>
-
-    </script>
-    <script src="~/assets/js/script.js"></script>
-    <script src="~/assets/js/script2.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/jquery.min.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/jquery.easings.min.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/bootstrap.min.js"></script>
-
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/jquery.ba-cond.min.js"></script>
-
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/jquery.slitslider.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/notifyMe.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/contact-me.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/classie.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/dialogFx.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/photoswipe.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/photoswipe-ui-default.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/jquery.mCustomScrollbar.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/jquery.countdown.js"></script>
-    <script src="~/assets/style_admin/extra-pages/comming-soon/js/main.js"></script>
-
-
-
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
 </body>
 
 @RenderSection("Scripts", required: false)

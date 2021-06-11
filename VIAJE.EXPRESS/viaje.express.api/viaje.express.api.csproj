@@ -7,6 +7,7 @@
   <ItemGroup>
     <PackageReference Include="Ajax" Version="0.0.0" />
     <PackageReference Include="bootstrap" Version="4.6.0" />
+    <PackageReference Include="FireSharp" Version="2.0.4" />
     <PackageReference Include="HotFix" Version="0.4.0.175" />
     <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />

@@ -5,7 +5,7 @@ using Nimbussoft.BaseDeDatos;
 
 namespace viaje.express.model.ModelCooperativa
 {
-    public class Cooperativa
+    class Cooperativa
     {
         [Columna("id_cooperativa")]
         public int id_cooperativa { get; set; }
@@ -27,6 +27,9 @@ namespace viaje.express.model.ModelCooperativa
 
         [Columna("lng")]
         public double lng { get; set; }
+
+        [Columna("administradores")]
+        public int administradores { get; set; }
 
         [Columna("activo")]
         public bool activo { get; set; }

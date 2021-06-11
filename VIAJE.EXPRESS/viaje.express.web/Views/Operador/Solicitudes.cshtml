@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewData["Title"] = "Solicitudes";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+
+
+<div class="col-sm-12">
+    <div class="card ">
+        <div class="card-header">
+            <h2>Solicitudes</h2>
+        </div>
+        <div class="card-block">
+            @*<div class="form-group row">
+                    <div class="col-sm-1">
+                        <select id="limit" name="limit" class="limitar">
+                            <option value="5">5</option>
+                            <option value="10">10</option>
+                            <option value="15">15</option>
+                            <option value="20">20</option>
+                        </select>
+                    </div>
+
+                    <div class="col">
+                        <input type="text" class="colcedula form-control" placeholder="Cedula">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="colnombre form-control" placeholder="Nombres">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="colapellido form-control" placeholder="Apellidos">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="colcorreo form-control" placeholder="Correo">
+                    </div>
+
+                    <div class="col">
+                        <select id="sactivo" name="sactivo" class="colactivoadmin form-control">
+                            <option value="1">Activo</option>
+                            <option value="0">Desactivo</option>
+                        </select>
+                    </div>
+                    <div class="col">
+                        <input type="text" class="colcooperativa form-control" placeholder="Cooperativa">
+                    </div>
+                    <div class="col-sm-4"></div>
+                </div>*@
+            <div class="table-responsive dt-responsive">
+                <table class="table table-striped table-bordered nowrap" id="tblSolicitudes">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Cedula Chofer</th>
+                            <th>Nombre Chofer</th>
+                            <th>Apellido Chofer</th>
+                            <th>Placa</th>
+                            <th>Tipo Solicitud</th>
+                            <th>Tipo Carrera</th>
+                            <th>Carrera Ejecucion</th>
+                            <th>Estado Solicitud</th>
+                            <th>Fecha</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+@section scripts{
+
+    <script type="module" src="~/assets/js/expressJS/solicitudes.js"></script>
+}

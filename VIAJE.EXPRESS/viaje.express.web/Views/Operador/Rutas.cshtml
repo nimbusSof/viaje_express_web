@@ -1,0 +1,181 @@
+﻿
+@{
+    ViewData["Title"] = "Rutas";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+@section styles{
+    <style>
+        #mapr {
+            min-height: 300px;
+        }
+    </style>
+}
+
+<div class="col-sm-12">
+    <!-- Customer overview start -->
+    <div class="card ">
+        <div class="card-header">
+            <button class="btn btn-round waves-light btn-primary" id="crear_ruta">
+                <i class="fa fa-plus-square"></i>
+                Nueva Ruta
+            </button>
+
+        </div>
+        <div class="card-block">
+            <div class="form-group row">
+                <div class="col-sm-1">
+                    <select id="limit" name="limit" class="limitar">
+                        <option value="5">5</option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                    </select>
+                </div>
+
+                <div class="col">
+                    <input type="text" class="colnombre form-control" placeholder="Nombre">
+                </div> 
+                <div class="col">
+                    <input type="text" class="coldistancia form-control" placeholder="Distancia">
+                </div>
+                <div class="col">
+                    <input type="text" class="coltiempo form-control" placeholder="Tiempo">
+                </div>
+                <div class="col">
+                    <input type="text" class="colmonto form-control" placeholder="Monto">
+                </div>
+                <div class="col">
+                    <select id="sactivo" name="sactivo" class="colactivo form-control">
+                        <option value="1">Activo</option>
+                        <option value="0">Desactivo</option>
+                    </select>
+                </div>
+                <div class="col-sm-4"></div>
+            </div>
+            <div class="table-responsive dt-responsive">
+                <table class="table table-striped table-bordered nowrap" id="tblRutas">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Nombre</th>
+                            <th>Distancia</th>
+                            <th>Tiempo</th>
+                            <th>Monto</th>
+                            <th>Activo</th>
+                            <th>Acción</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content" id="modalbody">
+
+                <!-- Modal -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Nueva Ruta</h4>
+                    <button type="button" class="close"
+                            data-dismiss="modal"
+                            aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    <span id="form_result"></span>
+
+                    <form id="formulario_ruta" method="post">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Nombre
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="nombre" name="nombre" class="form-control required">
+                                        <label class="error" style="color:red" for="nombre" id="nombre_error">El nombre es requerido.</label>
+                                    </div>
+                                </div> 
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Distancia (km)
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="distancia" name="distancia" class="form-control required">
+                                        <label class="error" style="color:red" for="distancia" id="distancia_error">La distancia es requerida.</label>
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Tiempo (min)
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="tiempo" name="tiempo" class="form-control required">
+                                        <label class="error" style="color:red" for="tiempo" id="tiempo_error">El tiempo es requerido.</label>
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Monto ($)
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="monto" name="monto" class="form-control required">
+                                        <label class="error" style="color:red" for="tiempo" id="tiempo_error">El monto es requerido.</label>
+                                    </div>
+
+                                </div>
+                                <div class="form-group row" id="act">
+                                    <label class="col-sm-4 col-form-label">
+                                        Activo
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input class="form-check-input" type="checkbox" id="activo" name="activo" />                                        <label class="error" style="color:red" for="lng" id="lng_error">La longitud es requerida.</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="card">
+                                    <div class="card-body" id="mapr"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="hidden" name="action" id="action" value="Add" />
+                            <input type="hidden" name="hidden_id" id="hidden_id" />
+                            <button type="button" id="llenar_campos" class="btn btn-success waves-effect ">
+                                Obtener
+                            </button>
+                            <button type="button" class="btn btn-default waves-effect "
+                                    data-dismiss="modal">
+                                Cancelar
+                            </button>
+                            <button type="submit" name="action_button" id="action_button" class="btn btn-primary waves-effect waves-light "
+                                    value="Add">
+                                <i class="fa fa-save"></i> Guardar
+                            </button>
+
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+
+
+
+@section Scripts{
+
+    <script type="module" src="~/assets/js/expressJS/rutas.js"></script>
+
+}s
+

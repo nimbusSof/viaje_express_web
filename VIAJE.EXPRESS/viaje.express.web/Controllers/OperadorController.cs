@@ -12,5 +12,29 @@ namespace viaje.express.web.Controllers
         {
             return View();
         }
+        public IActionResult Rutas()
+        {
+            return View();
+        }
+        public IActionResult Choferes()
+        {
+            return View();
+        }
+        public IActionResult Vehiculos()
+        {
+            return View();
+        } 
+        public IActionResult MapaVehiculos()
+        {
+            return View();
+        }  
+        public IActionResult MapaRutas()
+        {
+            return View();
+        } 
+        public IActionResult Solicitudes()
+        {
+            return View();
+        }
     }
 }

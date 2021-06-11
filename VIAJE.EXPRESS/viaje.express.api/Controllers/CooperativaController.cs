@@ -34,7 +34,7 @@ namespace viaje.express.api.Controllers
 
             if (bc.verificar(token))
             {
-                List<Cooperativa> listCoop = _cooperativa_db.listar_cooperativas(model.columna, model.nombre, model.offset, model.limit, model.sort);
+                List<ObtenerCooperativa> listCoop = _cooperativa_db.listar_cooperativas(model.columna, model.nombre, model.offset, model.limit, model.sort);
                 if (listCoop.Count > 0)
                 {
                     r.Codigo = 1;
@@ -58,8 +58,8 @@ namespace viaje.express.api.Controllers
         }
 
         [HttpGet]
-        [Route("{id}")]
-        public Resultado Get_obtener_cooperativa(int id, [FromHeader] string token = "")
+        [Route("{id_cooperativa}")]
+        public Resultado Get_obtener_cooperativa(int id_cooperativa, [FromHeader] string token = "")
         {
             Resultado r = new Resultado();
             r.Exito = false;
@@ -67,7 +67,7 @@ namespace viaje.express.api.Controllers
 
             if (bc.verificar(token))
             {
-                Cooperativa coop = _cooperativa_db.obtener_cooperativa(id);
+                ObtenerCooperativa coop = _cooperativa_db.obtener_cooperativa(id_cooperativa);
                 if (coop != null)
                 {
                     r.Codigo = 1;
@@ -91,7 +91,7 @@ namespace viaje.express.api.Controllers
         }
 
         [HttpPost]
-        public Resultado Post_insertar_cooperativa(Cooperativa model, [FromHeader] string token = "")
+        public Resultado Post_insertar_cooperativa(InsertarCooperativa model, [FromHeader] string token = "")
         {
             Resultado r = new Resultado();
             r.Exito = false;
@@ -111,8 +111,8 @@ namespace viaje.express.api.Controllers
         }
 
         [HttpPut]
-        [Route("{id}")]
-        public Resultado Post_actualizar_cooperativa(int id, Cooperativa model, [FromHeader] string token = "")
+        [Route("{id_cooperativa}")]
+        public Resultado Post_actualizar_cooperativa(int id_cooperativa, ActualizarCooperativa model, [FromHeader] string token = "")
         {
             Resultado r = new Resultado();
             r.Exito = false;
@@ -120,8 +120,8 @@ namespace viaje.express.api.Controllers
 
             if (bc.verificar(token))
             {
-                return _cooperativa_db.actualizar_cooperativa(id, model.nombre, model.direccion, model.telefono,
-                model.lat, model.lng, model.activo, model.Modified_by);
+                return _cooperativa_db.actualizar_cooperativa(id_cooperativa, model.nombre, model.direccion, model.telefono,
+                model.lat, model.lng, model.activo, model.modified_by);
             }
             else
             {
@@ -132,8 +132,8 @@ namespace viaje.express.api.Controllers
         }
 
         [HttpDelete]
-        [Route("{id}")]
-        public Resultado Delete(int id, Cooperativa model, [FromHeader] string token = "")
+        [Route("{id_cooperativa}")]
+        public Resultado Delete(int id_cooperativa, eliminar_cooperativa model, [FromHeader] string token = "")
         {
             Resultado r = new Resultado();
             r.Exito = false;
@@ -141,7 +141,7 @@ namespace viaje.express.api.Controllers
 
             if (bc.verificar(token))
             {
-                return _cooperativa_db.eliminar_cooperativa(id, model.Deleted_by);
+                return _cooperativa_db.eliminar_cooperativa(id_cooperativa, model.deleted_by);
             }
             else
             {
@@ -151,5 +151,10 @@ namespace viaje.express.api.Controllers
             }
         }
 
+    }
+
+    public class eliminar_cooperativa
+    {
+        public int deleted_by { get; set; }
     }
 }

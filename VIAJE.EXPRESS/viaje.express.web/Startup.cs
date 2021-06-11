@@ -50,7 +50,10 @@ namespace viaje.express.web
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapControllerRoute(
                  name: "default",
-                 pattern: "{controller=Acceso}/{action=Login}/{id?}");
+                 pattern: "{controller=Acceso}/{action=Login}/{id?}"); 
+                endpoints.MapControllerRoute(
+                 name: "default",
+                 pattern: "{controller=AccesoCliente}/{action=Login}/{id?}");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Administrador}/{action=Index}/{id?}");

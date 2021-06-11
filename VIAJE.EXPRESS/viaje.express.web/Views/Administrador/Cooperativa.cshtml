@@ -26,14 +26,44 @@
 
         </div>
         <div class="card-block">
+            <div class="form-group row">
+                <div class="col-sm-1">
+                    <select id="limit" name="limit" class="limitar">
+                        <option value="5">5</option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                    </select>
+                </div>
+
+                <div class="col">
+                    <input type="text" class="colnombre form-control" placeholder="Nombre">
+                </div>
+
+                <div class="col">
+                    <input type="text" class="coltelefono form-control" placeholder="Teléfono">
+                </div>
+                <div class="col">
+                    <input type="text" class="coldireccion form-control" placeholder="Dirección">
+                </div>
+                <div class="col">
+                    <select id="sactivo" name="sactivo" class="colactivo form-control">
+                        <option value="1">Activo</option>
+                        <option value="0">Desactivo</option>
+                    </select>
+                </div>
+                <div class="col-sm-4"></div>
+            </div>
             <div class="table-responsive dt-responsive">
                 <table class="table table-striped table-bordered nowrap" id="tblCoop">
                     <thead>
                         <tr>
+                            <th>ID</th>
                             <th>Nombre</th>
                             <th>Teléfono</th>
                             <th>Dirección</th>
                             <th>Estado</th>
+                            <th>Administradores</th>
                             <th>Acción</th>
                         </tr>
                     </thead>
@@ -60,100 +90,25 @@
                     <span id="form_result"></span>
 
                     <form id="formulario_cooperativa" method="post">
-                        <div>
-                            <h3>Cooperativa</h3>
-                            <section>
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <div class="form-group row">
-                                            <label class="col-sm-4 col-form-label">
-                                                Nombre
-                                            </label>
-                                            <div class="col-md-8">
-                                                <input type="text" id="nombre" name="nombre" class="form-control required">
-                                            </div>
-                                        </div>
-                                        <div class="form-group row">
-                                            <label class="col-sm-4 col-form-label">
-                                                Dirección
-                                            </label>
-                                            <div class="col-md-8">
-                                                <input type="text" id="direccion" name="direccion" class="form-control required">
-                                            </div>
-                                        </div>
-                                        <div class="form-group row">
-                                            <label class="col-sm-4 col-form-label">
-                                                Teléfono
-                                            </label>
-                                            <div class="col-md-8">
-                                                <input type="text" id="telefono" name="telefono" class="form-control required">
-                                            </div>
-                                        </div>
-                                        <div class="form-group row">
-                                            <label class="col-sm-4 col-form-label">
-                                                Latitud
-                                            </label>
-                                            <div class="col-md-8">
-                                                <input type="text" id="lat" name="lat" class="form-control required" disabled>
-                                            </div>
-                                        </div>
-                                        <div class="form-group row">
-                                            <label class="col-sm-4 col-form-label">
-                                                Longitud
-                                            </label>
-                                            <div class="col-md-8">
-                                                <input type="text" id="lng" name="lng" class="form-control required" disabled>
-                                            </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Nombre
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="nombre" name="nombre" class="form-control required">
+                                        <label class="error" style="color:red" for="nombre" id="nombre_error">El nombre es requerido.</label>
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Dirección
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="direccion" name="direccion" class="form-control required">
+                                        <label class="error" style="color:red" for="direccion" id="direccion_error">La direccion es requerida.</label>
 
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="card">
-                                            <div class="card-body" id="map2"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-
-                            <h3>Admin Cooperativa</h3>
-                            <section>
-                                <div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Foto
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="text" id="foto" name="foto" class="form-control required">
-                                    </div>
-                                </div>
-                                <div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Cedula
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="text" id="cedula" name="cedula" class="form-control required">
-                                    </div>
-                                </div>
-                                <div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Nombres
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="text" id="nombres" name="nombres" class="form-control required">
-                                    </div>
-                                </div> <div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Genero
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="text" id="genero" name="genero" class="form-control required">
-                                    </div>
-                                </div>
-                                <div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Apellido
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="text" id="apellidos" name="apellidos" class="form-control required">
                                     </div>
                                 </div>
                                 <div class="form-group row">
@@ -161,36 +116,169 @@
                                         Teléfono
                                     </label>
                                     <div class="col-md-8">
-                                        <input type="text" id="telefonou" name="telefonou" class="form-control required">
-                                    </div>
-                                </div><div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Correo
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="email" id="correo" name="correo" class="form-control required">
-                                    </div>
-                                </div><div class="form-group row">
-                                    <label class="col-sm-4 col-form-label">
-                                        Fecha de nacimiento
-                                    </label>
-                                    <div class="col-md-8">
-                                        <input type="date" id="fechan" name="fechan" class="form-control required">
+                                        <input type="text" id="telefono" name="telefono" class="form-control required">
+                                        <label class="error" style="color:red" for="telefono" id="telefono_error">El telefono es requerido.</label>
                                     </div>
                                 </div>
-                            </section>
-                            <h3>Finalizar</h3>
-                            <section>
-                            </section>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Latitud
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="lat" name="lat" class="form-control required" disabled>
+                                        <label class="error" style="color:red" for="lat" id="lat_error">La latitud es requerida.</label>
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-sm-4 col-form-label">
+                                        Longitud
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input type="text" id="lng" name="lng" class="form-control required" disabled>
+                                        <label class="error" style="color:red" for="lng" id="lng_error">La longitud es requerida.</label>
+                                    </div>
+
+                                </div>
+                                <div class="form-group row" id="act">
+                                    <label class="col-sm-4 col-form-label">
+                                        Activo
+                                    </label>
+                                    <div class="col-md-8">
+                                        <input class="form-check-input" type="checkbox" id="activo" name="activo" />                                        <label class="error" style="color:red" for="lng" id="lng_error">La longitud es requerida.</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="card">
+                                    <div class="card-body" id="map2"></div>
+                                </div>
+                            </div>
                         </div>
-                        <input type="hidden" name="action" id="action" value="Add" />
-                        <input type="hidden" name="hidden_id" id="hidden_id" />
+                        <div class="modal-footer">
+                            <input type="hidden" name="action" id="action" value="Add" />
+                            <input type="hidden" name="hidden_id" id="hidden_id" />
+                            <button type="button" class="btn btn-default waves-effect "
+                                    data-dismiss="modal">
+                                Cancelar
+                            </button>
+                            <button type="submit" name="action_button" id="action_button" class="btn btn-primary waves-effect waves-light "
+                                    value="Add">
+                                <i class="fa fa-save"></i> Guardar
+                            </button>
+
+                        </div>
                     </form>
                 </div>
 
             </div>
         </div>
     </div>
+
+    <div class="modal fade" id="formModaladmin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" id="modalbody">
+
+                <!-- Modal -->
+                <div class="modal-header">
+                    <h4 class="modal-titlea">Nuevo Admin</h4>
+                    <button type="button" class="close"
+                            data-dismiss="modal"
+                            aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    <span id="form_resultadmin"></span>
+
+                    <form id="formulario_adminCoop" method="post">
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Cedula
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="cedula" name="cedula" class="form-control required">
+                                <label class="error" style="color:red" for="cedula" id="cedula_error">La cedula es requerida.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Nombres
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="nombres" name="nombres" class="form-control required">
+                                <label class="error" style="color:red" for="nombres" id="nombres_error">Los nombres son requeridos.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Apellidos
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="apellidos" name="apellidos" class="form-control required">
+                                <label class="error" style="color:red" for="apellido" id="apellido_error">El apellido es requerido.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Genero
+                            </label>
+                            <div class="col-md-8">
+                                <select name="genero" id="genero" class="form-control required">
+                                    <option value="M">Masculino</option>
+                                    <option value="F">Femenino</option>
+                                    <option value="O">Otro</option>
+                                </select>
+                                <label class="error" style="color:red" for="genero" id="genero_error">El genero es reuquerido.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Teléfono
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="telefonoa" name="telefonoa" class="form-control required">
+                                <label class="error" style="color:red" for="telefonoa" id="telefonoa_error">El telefono es requerido.</label>
+                            </div>
+                        </div><div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Correo
+                            </label>
+                            <div class="col-md-8">
+                                <input type="email" id="correo" name="correo" class="form-control required">
+                                <label class="error" style="color:red" for="correo" id="correo_error">El correo es requerido.</label>
+                            </div>
+                        </div><div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Fecha de nacimiento
+                            </label>
+                            <div class="col-md-8">
+                                <input type="date" id="fechan" name="fechan" class="form-control required">
+                                <label class="error" style="color:red" for="fechan" id="fechan_error">La fecha de nacimiento es requerida.</label>
+                            </div>
+                        </div>
+
+
+                        <div class="modal-footer">
+                            <input type="hidden" name="hidden_id_admin" id="hidden_id_admin" />
+                            <button type="button" class="btn btn-default waves-effect "
+                                    data-dismiss="modal">
+                                Cancelar
+                            </button>
+                            <button type="submit" name="action_button" id="action_button" class="btn btn-primary waves-effect waves-light "
+                                    value="Add">
+                                <i class="fa fa-save"></i> Guardar
+                            </button>
+
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
 </div>
 
 
@@ -198,460 +286,7 @@
 
 
 @section Scripts{
-    <script>
-        var url = 'http://localhost:59454';
-        var form = $("#formulario_cooperativa");
-        var datatable;
-        var listarmodulo;
-        var token;
-        var id_usuario_rol;
-        var map;
-        let consult = {
-            "offset": 0,
-            "limit": 50
-        }
 
-        $(document).ready(function () {
-            token = localStorage.getItem('id_token');
-            id_usuario_rol = localStorage.getItem('id_usuario_rol');
-            listarmodulo = document.getElementById('modulos');
-            let _url = `${url}/Modulo/${id_usuario_rol}`;
-            fetch(_url, {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'token': token,
-                },
-            })
-                .then((response) => {
-                    return response.json();
-                })
-                .then((data) => {
-                    if (data['exito']) {
-                        var modul = data['data'];
-                        modul.forEach((item) => {
-                            listarmodulo.innerHTML += `
-                                                                               <li class="">
-                                                                                     <a onclick="navegar('${item['ruta']}')" class="waves-effect waves-dark">
-                                                                                       <span class="pcoded-micon"> <i class="feather icon-command"></i> </span>
-                                                                                        <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
-                                                                                     </a>
-                                                                              </li>`
-                        });
-                    } else {
-                        alert(data['mensaje']);
-                    }
-
-                }).catch((error) => alert(error));
-
-            obtenerCoop();
-        });
-        form.children("div").steps({
-            headerTag: "h3",
-            bodyTag: "section",
-            transitionEffect: "slideLeft",
-            onStepChanging: function (event, currentIndex, newIndex) {
-                form.validate(
-                    {
-                        errorPlacement: function errorPlacement(error, element) { element.after(error); },
-                        messages: {
-                            nombre: {
-
-                                required: "El nombre es requerido.",
-                            },
-                            direccion: {
-                                required: "La direccion es requerida."
-                            },
-                            telefono: {
-                                required: "El telefono es requerido."
-                            },
-                            lat: {
-                                required: "La latitud es requerida."
-                            },
-                            lng: {
-                                required: "La longitud es requerida."
-                            },
-                            cedula: {
-                                required: "La cedula es requerida."
-                            },
-                            nombres: {
-                                required: "Los nombres son requeridos."
-                            },
-                            apellidos: {
-                                required: "Los apellidos so requeridos."
-                            },
-                            telefonou: {
-                                required: "El telefono es requerido."
-                            },
-                            genero: {
-                                required: "El genero es requerido."
-                            },
-                            correo: {
-                                required: "El correo es requerido."
-                            },
-                            foto: {
-                                required: "La foto es requerida."
-                            },
-                            fechan: {
-                                required: "La fecha de nacimiento es requerida."
-                            }
-                        }
-                    }
-
-                );
-                return form.valid();
-            },
-            onFinishing: function (event, currentIndex) {
-                form.validate();
-                return form.valid();
-            },
-            onFinished: function (event, currentIndex) {
-                form.validate();
-                if (form.valid) {
-                    console.log('Validado');
-                    GuardarCooperativa();
-                } else {
-                    //swal({
-                    //    title: 'Error',
-                    //    text: 'Error en el ingreso de datos.',
-                    //    type: 'success',
-                    //    timer: 1500,
-                    //});
-                    console.log('No validado');
-                }
-            }
-        });
-
-        function obtenerCoop() {
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: 'http://localhost:59454/Cooperativa/Listar',
-                type: "POST",
-                data: JSON.stringify(consult),
-                dataType: "json",
-                success: function (data) {
-                    datatable = $("#tblCoop").DataTable();
-                    datatable.destroy();
-                    // $('#tblCoop').empty();
-                    datatable = $('#tblCoop').DataTable({
-                        processing: false,
-                        serverSide: false,
-                        responsive: true,
-                        autoWidth: false,
-                        data: data['data'],
-                        columns: [
-                            { data: "nombre" },
-                            { data: "direccion" },
-                            { data: "telefono" },
-                            {
-                                data: "activo", "render": function (data) {
-                                    if (data) {
-                                        return "Activo"
-                                    } else {
-                                        return "Desactivo"
-                                    }
-                                }
-                            },
-                            {
-                                data: "id_cooperativa", "render": function (data) {
-                                    var id = data;
-                                    return '<button type="button"  name="edit" id="' + id + '"  class="edit btn btn-primary btn-sm"> <i class="fa fa-edit fa-lg"></i></button> <button type="button"   name="delete" id="' + id + '" class="delete btn btn-danger btn-sm"><i class="fa fa-trash fa-lg"></i> </button>';
-                                }
-                            }
-                        ]
-                    });
-
-                },
-                error: function (err) {
-                    console.log(err);
-                }
-            });
-        }
-
-        function navegar(ruta) {
-            location.href = `../${ruta}`;
-        }
-
-        $('#crear_cooperativa').click(function () {
-            $('.modal-title').text('Agregar nueva Cooperativa');
-            $('#action_button').val('Add');
-            $('#action').val('Add');
-            $('#form_result').html('');
-            $('#formModal').modal('show');
-            $('.error').hide();
-        });
-
-
-        function GuardarCooperativa() {
-            var nombre = $("input#nombre").val();
-            var direccion = $("input#direccion").val();
-            var telefono = $("input#telefono").val();
-            var lat = $("input#lat").val();
-            var lng = $("input#lng").val();
-            var cooperativa = {
-                "id_persona_rol_admin": id_usuario_rol,
-                'nombre': nombre,
-                'direccion': direccion,
-                'telefono': telefono,
-                'lat': lat,
-                'lng': lng,
-                "activo": true,
-                "created_by": id_usuario_rol,
-            };
-            console.log(cooperativa);
-            let id_coop = $('#hidden_id').val();
-            let type_method = '';
-            var action_url = '';
-            if ($('#action').val() == 'Add') {
-                action_url = `${url}/Cooperativa`;
-                console.log('Hizo post: ' + action_url);
-                type_method = 'POST'
-            }
-            if ($('#action').val() == 'Edit') {
-                action_url = `${url}/Cooperativa/${id_coop}`;
-                type_method = 'PUT'
-            }
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: action_url,
-                type: type_method,
-                data: JSON.stringify(cooperativa),
-                dataType: "json",
-                success: function (data) {
-
-                    if (data['exito']) {
-                        let id_Coop = data['codigo'];
-                        console.log(data);
-                        GuardarAdministradorCopp(id_Coop);
-                    } else {
-                        swal({
-                            title: 'Error',
-                            text: data['mensaje'],
-                            type: 'danger',
-                            timer: 1500,
-                        });
-                    }
-
-                },
-                error: function (err) {
-                    swal({
-                        title: 'Error',
-                        text: "Error al ingresar los datos de coopertaiva",
-                        type: 'danger',
-                        timer: 1500,
-                    });
-                }
-            });
-
-        }
-
-
-        $(document).on('click', '.edit', function () {
-            $('.error').hide();
-            var id = $(this).attr('id');
-            $('#form_result').html('');
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: `${url}/Cooperativa/${id}`,
-                dataType: "json",
-                success: function (resp) {
-                    $('#nombre').val(resp.data.nombre);
-                    $('#direccion').val(resp.data.direccion);
-                    $('#telefono').val(resp.data.telefono);
-                    $('#lat').val(resp.data.lat);
-                    $('#lng').val(resp.data.lng);
-                    $('#hidden_id').val(id);
-                    $('.modal-title').text('Editar cooperativa');
-                    $('#action_button').val('Edit');
-                    $('#action').val('Edit');
-                    $('#formModal').modal('show');
-                }
-            })
-            return false;
-        });
-
-
-
-
-
-
-        function GuardarAdministradorCopp(id_coop) {
-            var cedula = $("input#cedula").val();
-            var nombres = $("input#nombres").val();
-            var apellidos = $("input#apellidos").val();
-            var fechan = $("input#fechan").val();
-            var telefono = $("input#telefonou").val();
-            var genero = $("input#genero").val();
-            var correo = $("input#correo").val();
-            var foto = $("input#foto").val();
-            var admincoop = {
-                'cedula': cedula,
-                'nombre': nombres,
-                'apellido': apellidos,
-                'fecha_nacimiento': fechan,
-                'genero': genero,
-                'telefono': telefono,
-                'correo': correo,
-                'clave': cedula,
-                'path_foto': foto,
-                'id_cooperativa': id_coop,
-                "created_by": id_usuario_rol,
-                "id_persona_rol_ejecucion": id_usuario_rol
-            };
-
-            let type_met = '';
-            var action_url = '';
-            if ($('#action').val() == 'Add') {
-                action_url = `${url}/UsuarioAdministradorCooperativa`;
-                type_met = 'POST'
-            }
-            if ($('#action').val() == 'Edit') {
-                action_url = `${url}/UsuarioAdministradorCooperativa/${id_coop}`;
-                type_met = 'PUT'
-            }
-            console.log(admincoop);
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: action_url,
-                type: type_met,
-                data: JSON.stringify(admincoop),
-                dataType: "json",
-                success: function (data) {
-                    if (data['exito']) {
-                        $('#formModal').modal('hide');
-                        swal({
-                            title: 'Correcto',
-                            text: data['mensaje'],
-                            type: 'success',
-                            timer: 1500,
-                        });
-                        obtenerCoop();
-                    } else {
-                        swal({
-                            title: 'Error',
-                            text: data['mensaje'],
-                            type: 'danger',
-                            timer: 1500,
-                        });
-                    }
-
-
-                },
-                error: function (err) {
-                    swal({
-                        title: 'Error',
-                        text: 'Error al guardar datos del administrador',
-                        type: 'danger',
-                        timer: 1500,
-                    });
-                }
-            });
-        }
-
-
-
-
-        $(document).on('click', '.delete', function () {
-            let coop_id = $(this).attr('id');
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: `${url}/Cooperativa/${coop_id}`,
-                dataType: "json",
-                success: function (resp) {
-                    let cooperativa = {
-                        "nombre": resp.data.nombre,
-                        "direccion": resp.data.direccion,
-                        "telefono": resp.data.telefono,
-                        "lat": resp.data.lat,
-                        "lng": resp.data.lng,
-                        "Deleted_by": id_usuario_rol
-                    }
-                    eliminarCoop(coop_id, cooperativa);
-
-                }
-            });
-        });
-
-
-
-        function eliminarCoop(id, dataCoop) {
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: `${url}/Cooperativa/${id}`,
-                type: 'DELETE',
-                dataType: "json",
-                data: JSON.stringify(dataCoop),
-                success: function (data) {
-                    swal({
-                        title: 'Correcto',
-                        text: 'Transaccion procesada correctamente',
-                        type: 'success',
-                        timer: 1500,
-                    });
-                    obtenerCoop();
-                },
-                error: function (err) {
-                    swal({
-                        title: 'Error',
-                        text: 'Transaccion procesada correctamente',
-                        type: 'success',
-                        timer: 1500,
-                    });
-                }
-            });
-        }
-
-        //mapoa
-        map = L.map('map2').setView([0.04104004628590023, -78.14285258539633], 13);
-        //[0.04104004628590023, -78.14285258539633], 13
-
-        L.marker([48.86, 2.35]).addTo(map);
-
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
-
-        // Comment out the below code to see the difference.
-        $('#formModal').on('shown.bs.modal', function () {
-            map.invalidateSize();
-        });
-        var popup = L.popup();
-        var txt_latitud = document.getElementById("lat");
-        var txt_longitud = document.getElementById("lng");
-
-
-        function onMapClick(e) {
-            popup.setLatLng(e.latlng).setContent("Lugar seleccionado").openOn(map);
-            txt_latitud.value = e.latlng.lat;
-            txt_longitud.value = e.latlng.lng;
-        }
-
-        map.on('click', onMapClick);
-
-
-    </script>
+    <script type="module" src="~/assets/js/expressJS/cooperativas.js"></script>
 
 }

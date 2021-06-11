@@ -1,70 +1,164 @@
-﻿
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-using viaje.express.data;
+using viaje.express.model.ModelVehiculo;
+using viaje.express.data.DataVehiculo;
 using viaje.express.model;
-
-
+using Microsoft.Extensions.Logging;
 
 namespace viaje.express.api.Controllers
 {
-    [ApiController]
     [Route("[controller]")]
+    [ApiController]
     public class VehiculoController : ControllerBase
     {
         private readonly ILogger<VehiculoController> _logger;
-        private readonly VehiculoBd _vehiculoBd;
+        private readonly Vehiculo_db _vehiculo_db;
+        private BaseController bc;
+        
 
-        public VehiculoController(ILogger<VehiculoController> logger, VehiculoBd vehiculoBd)
+        public VehiculoController(ILogger<VehiculoController> logger, Vehiculo_db vehiculo_db)
         {
             _logger = logger;
-            _vehiculoBd = vehiculoBd;
+            _vehiculo_db = vehiculo_db;
+            bc = new BaseController();
         }
 
-        [HttpGet]
-        public List<Vehiculo> Get()
-        {
-            return _vehiculoBd.Listar();
-        }
-
-        [HttpGet]
-        [Route("{id}")]
-        public Vehiculo Get(int id)
-        {
-            return _vehiculoBd.Obtener(id);
-        }
-        [HttpGet]
-        [Route("{id}/{aux}")]
-        public List<Vehiculo> Get(int id, string aux)
-        {
-            return _vehiculoBd.Obtener_Vehiculo_Cooperativa(id, aux);
-        }
         [HttpPost]
-        public Vehiculo Post(Vehiculo model)
+        public Resultado Post_insertar_vehiculo(InsertarVehiculo model, [FromHeader] string token = "")
         {
-            return _vehiculoBd.Insertar(model.CooperativaId, model.VehiculoPlacaVehiculo, model.VehiculoColorVehiculo, model.CreatedBy);
+            Resultado result = new Resultado();
+            result.Exito = false;
+            result.Codigo = 0;
+
+            if (bc.verificar(token))
+            {             
+                return _vehiculo_db.insertar_vehiculo(model.id_cooperativa, model.placa, model.matricula,
+                    model.color, model.created_by);             
+            }
+            else
+            {
+                result.Mensaje = bc.mensaje;
+                result.Codigo = bc.codigo;
+                return result;
+            }
         }
 
         [HttpPut]
-        [Route("{id}")]
-        public Resultado Put(int id, Vehiculo model)
+        [Route("{id_vehiculo}")]
+        public Resultado Post_actualizar_vehiculo(int id_vehiculo, ActualizarVehiculo model, [FromHeader] string token = "")
         {
-            return _vehiculoBd.Modificar(id, model.CooperativaId, model.VehiculoPlacaVehiculo, model.VehiculoColorVehiculo, model.ModifiedBy );
+            Resultado result = new Resultado();
+            result.Exito = false;
+            result.Codigo = 0;
+
+            if (bc.verificar(token))
+            {
+                return _vehiculo_db.actualizar_vehiculo(id_vehiculo, model.matricula,
+                    model.color, model.activo, model.modified_by);            
+            }
+            else
+            {
+                result.Mensaje = bc.mensaje;
+                result.Codigo = bc.codigo;
+                return result;
+            }
         }
 
         [HttpDelete]
-        [Route("{id}")]
-        public Resultado Delete(int id)
+        [Route("{id_vehiculo}")]
+        public Resultado eliminar_vehiculo(int id_vehiculo, eliminarVehiculo model, [FromHeader] string token = "")
         {
-           
-            return _vehiculoBd.Eliminar(id, 2);
+            Resultado result = new Resultado();
+            result.Exito = false;
+            result.Codigo = 0;
+
+            if (bc.verificar(token))
+            {
+                return  _vehiculo_db.eliminar_veiculo(id_vehiculo, model.deleted_by);
+            }
+            else
+            {
+                result.Mensaje = bc.mensaje;
+                result.Codigo = bc.codigo;
+                return result;
+            }
         }
 
+        [HttpPost]
+        [Route("Listar/{id_cooperativa}")]
+        public Resultado Get_listar_vehiculos(int id_cooperativa, Listar model, [FromHeader] string token = "")
+        {
+            Resultado result = new Resultado();
+            result.Exito = false;
+            result.Codigo = 0;
 
-       
+            if (bc.verificar(token))
+            {
+                List<ObtenerVehiculo> listVehiculo = _vehiculo_db.listar_vehiculo(id_cooperativa, model.columna, model.nombre, model.offset, model.limit, model.sort);
+                if (listVehiculo.Count > 0)
+                {
+                    result.Codigo = 1;
+                    result.Data = listVehiculo;
+                    result.Mensaje = "Correcto";
+                    result.Exito = true;
+                    return result;
+                }
+                else
+                {
+                    result.Mensaje = "No se encontro ningun registro";
+                    return result;
+                }
+            }
+            else
+            {
+                result.Mensaje = bc.mensaje;
+                result.Codigo = bc.codigo;
+                return result;
+            }
+        }
 
+        [HttpGet]
+        [Route("{id_vehiculo}")]
+        public Resultado Get_obtener_vehiculo(int id_vehiculo, [FromHeader] string token = "")
+        {
+            Resultado result = new Resultado();
+            result.Exito = false;
+            result.Codigo = 0;
 
+            if (bc.verificar(token))
+            {
+                ObtenerVehiculo vehi = _vehiculo_db.obtener_vehiculo(id_vehiculo);
+                if (vehi != null)
+                {
+                    result.Codigo = 1;
+                    result.Data = vehi;
+                    result.Mensaje = "Correcto";
+                    result.Exito = true;
+                    return result;
+                }
+                else
+                {
+                    result.Mensaje = "No se encontro ningun registro";
+                    return result;
+                }
+            }
+            else
+            {
+                result.Mensaje = bc.mensaje;
+                result.Codigo = bc.codigo;
+                return result;
+            }
+        }
     }
+
+    public class eliminarVehiculo
+    {
+        public int deleted_by { get; set; }
+    }
+
 }

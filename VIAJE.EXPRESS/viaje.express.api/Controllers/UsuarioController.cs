@@ -27,9 +27,9 @@ namespace viaje.express.api.Controllers
             bc = new BaseController();
         }
 
-        [HttpGet]
-        [Route("{id}")]
-        public Resultado Get_obtener_usuario(int id, [FromHeader] string token = "")
+        /*[HttpGet]
+        [Route("{id_persona_rol}")]
+        public Resultado Get_obtener_usuario(int id_persona_rol, [FromHeader] string token = "")
         {
             Resultado result = new Resultado();
 
@@ -38,7 +38,7 @@ namespace viaje.express.api.Controllers
 
             if (bc.verificar(token))
             {
-                Usuario u = _usuario_db.obtener_usuario(id);             
+                Usuario u = _usuario_db.obtener_usuario(id_persona_rol);             
                 if (u != null)
                 {  
                     result.Data = u;
@@ -59,27 +59,6 @@ namespace viaje.express.api.Controllers
                 return result;
             }
 
-        }
-
-        /*[HttpPost]
-        [Route("AdministradorCooperativa")]
-        public Resultado Post_insertar_administrador_cooperativa(UsuarioAdministradorCooperativa model, [FromHeader] string token = "")
-        {
-            Resultado r = new Resultado();
-            r.Exito = false;
-            r.Codigo = 0;
-
-            if (bc.verificar(token))
-            {
-                return _usuario_db.insertar_usuario_admin_coop(model.cedula, model.nombre, model.apellido, model.fecha_nacimiento,
-                        model.telefono, model.correo, model.clave, model.path_foto, model.id_cooperativa, model.Created_by);
-            }
-            else
-            {
-                r.Mensaje = bc.mensaje;
-                r.Codigo = bc.codigo;
-                return r;
-            }
         }*/
     }
 }

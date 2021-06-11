@@ -1,0 +1,181 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<!-- Pre-loader start -->
+<div class="theme-loader">
+    <div class="loader-track">
+        <div class="preloader-wrapper">
+            <div class="spinner-layer spinner-blue">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+            <div class="spinner-layer spinner-red">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+
+            <div class="spinner-layer spinner-yellow">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+
+            <div class="spinner-layer spinner-green">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Pre-loader end -->
+<section class="login-block">
+    <!-- Container-fluid starts -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                <!-- Authentication card start -->
+                <form class="md-float-material form-material" >
+                    @*<div class="text-center">
+                            <img src="../files/assets/images/logo.png" alt="logo.png">
+                        </div>*@
+                    <div class="auth-box card">
+                        <div class="card-block">
+                            <div class="row m-b-20">
+                                <div class="col-md-12">
+                                    <h3 class="text-center txt-primary">Registrate en la aplicación</h3>
+                                </div>
+                            </div>
+                                <div class="form-group form-primary">
+                                    <input type="text" name="cedula" id="cedula" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Cedula</label>
+                                    <label class="error" style="color:red" for="cedula" id="cedula_error">La cedula es requerida.</label>
+                                </div>
+                                <div class="form-group form-primary">
+                                    <input type="text" name="nombres" id="nombres" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Nombres</label>
+                                    <label class="error" style="color:red" for="nombres" id="nombres_error">Los nombres son requeridos.</label>
+                                </div>
+                                <div class="form-group form-primary">
+                                    <input type="text" name="apellidos" id="apellidos" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Apellidos</label>
+                                    <label class="error" style="color:red" for="apellidos" id="apellidos_error">Los apellidos son requeridos.</label>
+                                </div>
+                                <div class="form-group form-primary">
+                                    <input type="text" name="direccion" id="direccion" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Dirección</label>
+                                    <label class="error" style="color:red" for="direccion" id="direccion_error">La direccion es requerida.</label>
+                                </div>
+
+                                <div class="form-group form-primary">
+                                    <input type="text" id="telefono" name="telefono" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Teléfono</label>
+                                    <label class="error" style="color:red" for="telefono" id="telefono_error">El telefono es requerido.</label>
+                                </div>
+                                <div class="form-group form-primary">
+                                    <select name="genero" id="genero" class="form-control required">
+                                        <option value="M">Masculino</option>
+                                        <option value="F">Femenino</option>
+                                        <option value="O">Otro</option>
+                                    </select>
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Genero</label>
+                                </div>
+                                <div class="form-group form-primary">
+                                    <input type="date" id="fechan" name="fechan" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Fecha de Nacimiento</label>
+                                    <label class="error" style="color:red" for="fechan" id="fechan_error">La fecha de nacimiento es requerida.</label>
+                                </div>
+                                <div class="form-group form-primary">
+                                    <input type="email" id="correo" name="correo" class="form-control required">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Correo</label>
+                                    <label class="error" style="color:red" for="correo" id="correo_error">El correo es requerido.</label>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group form-primary">
+                                            <input type="password" name="contrasenia" id="contrasenia" class="form-control required">
+                                            <span class="form-bar"></span>
+                                            <label class="float-label">Contraseña</label>
+                                            <label class="error" style="color:red" for="contrasenia" id="contrasenia_error">La contraseña es requerida.</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group form-primary">
+                                            <input type="password" name="confirm-password" class="form-control">
+                                            <span class="form-bar"></span>
+                                            <label class="float-label">Confirme Contraseña</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row m-t-25 text-left">
+                                    <div class="col-md-12">
+                                        <div class="checkbox-fade fade-in-primary">
+                                            <label>
+                                                <input type="checkbox" value="">
+                                                <span class="cr"><i class="cr-icon icofont icofont-ui-check txt-primary"></i></span>
+                                                <span class="text-inverse">Acepto terminos y condiciones.</a></span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row m-t-30">
+                                    <div class="col-md-12">
+                                        <button type="button" class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20" id="registar">Registrarse</button>
+                                    </div>
+                                </div>
+                                <hr />
+                        </div>
+                    </div>
+                </form>
+                <!-- Authentication card end -->
+            </div>
+            <!-- end of col-sm-12 -->
+        </div>
+        <!-- end of row -->
+    </div>
+    <!-- end of container-fluid -->
+</section>
+
+
+@section Scripts{
+
+    <script type="module" src="~/assets/js/expressJS/registrar-clientes.js"></script>
+
+}

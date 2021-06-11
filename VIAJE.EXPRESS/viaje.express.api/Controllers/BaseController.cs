@@ -28,10 +28,17 @@ namespace viaje.express.api.Controllers
             if (sv != null)
             {
                 return true;
-            }else
+            }
+            else
             {
                 return false;
             }
+        }
+
+        [HttpPost]
+        public void iniciarLogidn()
+        {
+
         }
     }
 }

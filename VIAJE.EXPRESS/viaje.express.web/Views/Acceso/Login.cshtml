@@ -4,7 +4,11 @@
     ViewBag.Title = "Login";
     Layout = "~/Views/Shared/_LayoutLogin.cshtml";
 }
-
+<div aria-live="polite" aria-atomic="true">
+    <div class="toast-container position-absolute bottom-0 end-0 p-3" id="toast-container">
+        <!-- toasts are created dynamically -->
+    </div>
+</div>
 <!-- Pre-loader start -->
 <div class="theme-loader">
     <div class="loader-track">
@@ -64,9 +68,6 @@
     <!-- Container-fluid starts -->
     <div class="container-fluid">
         <div class="row">
-            <div class="danger">
-                @ViewBag.Error
-            </div>
             <div class="col-sm-12">
                 <!-- Authentication card start -->
                 <div class="auth-box card">
@@ -77,7 +78,7 @@
                             </div>
                         </div>
                         <div class="text-center">
-                            <img src="~/assets/style_admin/assets/images/icono_taxi.jpg" style="width:200px; height:200px" />
+                            <img src="~/images/logo-taxi.jpg" style="width:200px; height:200px" />
                         </div>
                         <br />
                         <div class="form-group form-primary">
@@ -110,7 +111,7 @@
                         </div>
                         <div class="row m-t-30">
                             <div class="col-md-12">
-                                <button type="submit" onclick="inciar_session()"
+                                <button type="submit" id="login"
                                         class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20">
                                     INGRESAR
                                 </button>
@@ -127,5 +128,5 @@
     </div>
 </section>
 @section Scripts{
-    <script src="~/assets/js/script_iniciarS.js"></script>
+    <script type="module" src="~/assets/js/expressJS/login.js"></script>
 }

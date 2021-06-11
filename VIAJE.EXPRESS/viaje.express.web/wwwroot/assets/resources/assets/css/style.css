@@ -7045,11 +7045,11 @@ body[themebg-pattern="theme6"] {
     }
 
 .pcoded .pcoded-header[header-theme="themelight1"] {
-    background: #fff
+    background: #FF7043
 }
 
     .pcoded .pcoded-header[header-theme="themelight1"] .input-group-append .input-group-text, .pcoded .pcoded-header[header-theme="themelight1"] .input-group-prepend .input-group-text, .pcoded .pcoded-header[header-theme="themelight1"] a {
-        color: #333
+        color: #fff
     }
 
     .pcoded .pcoded-header[header-theme="themelight1"] .navbar-logo a {

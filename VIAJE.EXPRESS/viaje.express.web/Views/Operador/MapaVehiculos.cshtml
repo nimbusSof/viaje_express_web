@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "MapaVehiculos";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+@section styles{
+    <link href="~/assets/resources/oepnstreamap/leaflet.fullscreen.css" rel="stylesheet" />
+    <style>
+        #map1 {
+            width: 100%
+        }
+    </style>
+}
+
+
+<div class="col-sm-12">
+    <div class="card">
+        <div class="card-header">
+            <h5>Buscador</h5>
+        </div>
+        <div class="card-block">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="">
+                        <div class="form-group row">
+                            <span class="col-sm-2 input-group-btn">
+                                <button type="submit" class="btn btn-primary" id="obtene_vehiculo">Ir</button>
+                            </span>
+                            <div class="col-md-10">
+                                <input type="text" id="vehiculos" name="vehiculos" class="form-control" placeholder="Ingrese la placa">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <div class="gmap1 full-page-google-map">
+                        <div id="map1"></div>
+                    </div>
+                </div>
+                <!-- end -->
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/assets/resources/oepnstreamap/Leaflet.fullscreen.js"></script>
+    <script type="module" src="~/assets/js/expressJS/mapa-vehiculos.js"></script>
+}
+

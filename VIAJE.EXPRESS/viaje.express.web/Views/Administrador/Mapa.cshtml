@@ -4,6 +4,7 @@
     Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
 }
 @section styles{
+    <link href="~/assets/resources/oepnstreamap/leaflet.fullscreen.css" rel="stylesheet" />
     <style>
         #map1 {
             width: 100%
@@ -33,7 +34,7 @@
                     <div class="clearfix"></div>
                     <br>
                     <div class="gmap1 full-page-google-map">
-                        <div id="map1" ></div>
+                        <div id="map1"></div>
                     </div>
                 </div>
                 <!-- end -->
@@ -43,94 +44,6 @@
 </div>
 
 @section Scripts{
-    <script type="text/javascript">
-        var token;
-        var map;
-        let consult = {
-            "offset": 0,
-            "limit": 10
-        }
-        var url = 'http://localhost:59454';
-        $(document).ready(function () {
-            token = localStorage.getItem('id_token');
-            console.log('Este es e token: ' + token);
-            var id_usuario_rol = localStorage.getItem('id_usuario_rol');
-            let listarmodulo = document.getElementById('modulos');
-            let _url = `${url}/Modulo/ ${id_usuario_rol}`;
-            fetch(_url, {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'token': token,
-                },
-            })
-                .then((response) => {
-                    return response.json();
-                })
-                .then((data) => {
-                    if (data['exito']) {
-                        var modul = data['data'];
-                        modul.forEach((item) => {
-                            listarmodulo.innerHTML += `
-                                                        <li class="">
-                                                        <a onclick="navegar('${item['ruta']}')" class="waves-effect waves-dark">
-                                                            <span class="pcoded-micon">
-                                                                  <i class="feather icon-command"></i>
-                                                             </span>
-                                                              <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
-                                                        </a>
-                                                        </li>`
-                        });
-                    } else {
-                        alert('Mensaje de modulo:' + data['mensaje']);
-                    }
-
-                }).catch((error) => alert(error));
-            map = L.map('map1').setView([0.04104004628590023, -78.14285258539633], 13);
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            }).addTo(map);
-            obtenerCoop();
-        });
-
-        function navegar(ruta) {
-            location.href = `../${ruta}`;
-        }
-
-
-        function obtenerCoop() {
-            var _url = `${url}/Cooperativa/Listar`;
-            var customIcon = new L.Icon({
-                iconUrl: 'https://www.cooserfam.com/attachments/Image/casa-inmobiliaria.png',
-                iconSize: [50, 50],
-                iconAnchor: [25, 50]
-            });
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: _url,
-                type: "POST",
-                data: JSON.stringify(consult),
-                dataType: "json",
-                success: function (data) {
-                    let datos = data['data'];
-                    let _latlng;
-                    datos.forEach((coop) => {
-                        _latlng = `[${coop['lat']},${coop['lng']}]`;
-                        L.marker([coop['lat'], coop['lng']], { icon: customIcon},{
-                            draggable: true
-                        }).bindPopup(coop['nombre']).addTo(map);
-                        console.log(_latlng);
-                    });
-                },
-                error: function (err) {
-                    console.log(err);
-                }
-
-            });
-        }
-
-    </script>
+    <script type="module" src="~/assets/js/expressJS/mapa-cooperativas.js"></script>
+    <script src="~/assets/resources/oepnstreamap/Leaflet.fullscreen.js"></script>
 }

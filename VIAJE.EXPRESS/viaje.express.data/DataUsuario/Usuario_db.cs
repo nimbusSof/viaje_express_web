@@ -11,15 +11,15 @@ namespace viaje.express.data.DataUsuario
     {
         internal BaseDeDatos db = BaseDeDatos.GetConection();
 
-        public Usuario obtener_usuario(int id)
+        /*public Usuario obtener_usuario(int id)
         {
             Consulta consulta = new Consulta("[proc_obtener_usuario] @id_persona_rol");
             consulta.AgregarParametro(db.CrearParametro("@id_persona_rol", id));
             return db.EjecutarFilaUnica<Usuario>(consulta);
-        }
+        }*/
         
 
-        public Resultado insertar_usuario_admin_coop(string cedula, string nombre, string apellido, DateTime fecha_nacimiento, string genero,
+        /*public Resultado insertar_usuario_admin_coop(string cedula, string nombre, string apellido, DateTime fecha_nacimiento, string genero,
             string telefono,string correo, string clave, string foto_path, int id_cooperativa, int created_by)
         {
             int id_rol_admin_cooperativa = 2; // id_rol que va pertenercer el usuario, 2 Administraor Cooperativa
@@ -62,6 +62,6 @@ namespace viaje.express.data.DataUsuario
             consulta.AgregarParametro(db.CrearParametro("@id_cooperativa", id_cooperativa));
             consulta.AgregarParametro(db.CrearParametro("@created_by", created_by));
             return db.EjecutarFilaUnica<Resultado>(consulta);
-        }
+        }*/
     }
 }

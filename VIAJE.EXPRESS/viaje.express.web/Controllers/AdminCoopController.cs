@@ -11,6 +11,10 @@ namespace viaje.express.web.Controllers
         public IActionResult Index()
         {
             return View();
+        }  
+        public IActionResult Operador()
+        {
+            return View();
         }
     }
 }

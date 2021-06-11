@@ -55,7 +55,7 @@ namespace viaje.express.data.DataCooperativa
             return db.EjecutarFilaUnica<Resultado>(consulta);
         }
 
-        public List<Cooperativa> listar_cooperativas(string columna = null, string nombre = null, int offset = 0, int limit = 100, string sort = "")
+        public List<ObtenerCooperativa> listar_cooperativas(string columna = null, string nombre = null, int offset = 0, int limit = 100, string sort = "")
         {
             Consulta consulta = new Consulta("[proc_listar_cooperativas] @columna, @nombre, @offset, @limit, @sort");
             consulta.AgregarParametro(db.CrearParametro("@columna", columna));
@@ -64,14 +64,14 @@ namespace viaje.express.data.DataCooperativa
             consulta.AgregarParametro(db.CrearParametro("@limit", limit));
             consulta.AgregarParametro(db.CrearParametro("@sort", sort));
 
-            return db.EjecutarConsulta<Cooperativa>(consulta);
+            return db.EjecutarConsulta<ObtenerCooperativa>(consulta);
         }
 
-        public Cooperativa obtener_cooperativa(int id)
+        public ObtenerCooperativa obtener_cooperativa(int id)
         {
             Consulta consulta = new Consulta("[proc_obtener_cooperativa] @id_cooperativa");
             consulta.AgregarParametro(db.CrearParametro("@id_cooperativa", id));
-            return db.EjecutarFilaUnica<Cooperativa>(consulta);
+            return db.EjecutarFilaUnica<ObtenerCooperativa>(consulta);
         }
     }
 }

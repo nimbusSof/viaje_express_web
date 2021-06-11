@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Nimbussoft.BaseDeDatos;
+
+namespace viaje.express.model.ModelCooperativa
+{
+    public class InsertarCooperativa
+    {
+        [Columna("id_persona_rol_admin")]
+        public int id_persona_rol_admin { get; set; }
+
+        [Columna("nombre")]
+        public string nombre { get; set; }
+
+        [Columna("direccion")]
+        public string direccion { get; set; }
+
+        [Columna("telefono")]
+        public string telefono { get; set; }
+
+        [Columna("lat")]
+        public double lat { get; set; }
+
+        [Columna("lng")]
+        public double lng { get; set; }
+
+        [Columna("activo")]
+        public bool activo { get; set; }
+
+        [Columna("created_by")]
+        public int Created_by { get; set; }
+    }
+}

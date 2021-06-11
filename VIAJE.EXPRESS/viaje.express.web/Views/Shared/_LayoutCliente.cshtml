@@ -1,14 +1,157 @@
-﻿<!DOCTYPE html>
-<html lang="es">
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8">
-    <title>Cliente</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilo.css">
-</head>
+    <!-- Google font-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:500,700" rel="stylesheet">
+    <link href="~/assets/resources/bower_components/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/resources/assets/pages/waves/css/waves.min.css" rel="stylesheet" />
+    <link href="~/assets/resources/assets/icon/feather/css/feather.css" rel="stylesheet" />
+    <link href="~/assets/resources/bower_components/sweetalert/css/sweetalert.css" rel="stylesheet" />
+    <link href="~/assets/resources/assets/css/font-awesome-n.min.css" rel="stylesheet" />
+    <link href="~/assets/resources/assets/css/component.css" rel="stylesheet" />
+    <!-- Data Table Css -->
+    <link rel="stylesheet" href="~/assets/resources/bower_components/datatables.net-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/assets/resources/assets/pages/data-table/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" href="~/assets/resources/bower_components/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css">
+    <!-- Leaflet assets -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+    <link href="~/assets/resources/assets/css/widget.css" rel="stylesheet" />
+    <link href="~/assets/resources/assets/css/style.css" rel="stylesheet" />
+    <link href="~/assets/resources/assets/css/pages.css" rel="stylesheet" />
 
+    <style>
+        #map1 {
+            height: 400px;
+        }
+    </style>
+    <style>
+        .badgeAlert {
+            display: inline-block;
+            min-width: 10px;
+            padding: 3px 7px;
+            font-size: 12px;
+            font-weight: 700;
+            color: #fff;
+            line-height: 1;
+            vertical-align: baseline;
+            white-space: nowrap;
+            text-align: center;
+            background-color: #d9534f;
+            border-radius: 10px;
+            position: absolute;
+            margin-top: -10px;
+            margin-left: -10px
+        }
+    </style>
+    @RenderSection("styles", required: false)
+    <title>Cliente</title>
+
+</head>
 <body>
-    <p>Esta página web es una página HTML válida.</p>
-@RenderBody()
+
+    <div id="pcoded" class="pcoded">
+        <div class="pcoded-overlay-box"></div>
+        <div class="pcoded-container navbar-wrapper">
+            <nav class="navbar header-navbar pcoded-header">
+                <div class="navbar-wrapper">
+                    <div class="navbar-logo">
+                        @*<a href="#!">
+                            <img class="img-fluid" src="~/assets/resources/assets/images/logo-viajes-express_blak.png" alt="Theme-Logo" />
+                        </a>*@
+
+                        <h3>Viajes Express</h3>
+
+                    </div>
+                    <div class="navbar-container container-fluid">
+                        <ul class="nav-left">
+                        </ul>
+                        <ul class="nav-right">
+                            <li class="header-notification">
+                                <div class="dropdown-primary dropdown">
+                                    <div class="dropdown-toggle" data-toggle="dropdown" id="notificaciones_cli">
+                                        <i class="feather icon-bell"></i>
+                                        @*<span id="nro_notificaciones" class='badgeAlert'></span>*@
+                                        <span id="nro_notificaciones" class="badge bg-c-red"></span>
+                                    </div>
+                                    <ul id="list_notificaciones_cli" class="show-notification notification-view dropdown-menu"
+                                        data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
+                                        <li>
+                                            <h4>Notificaciones</h4>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="user-profile header-notification">
+
+                                <div class="dropdown-primary dropdown">
+                                    <div class="dropdown-toggle" data-toggle="dropdown">
+                                        <img src="~/assets/resources/assets/images/avatar_user.png" class="img-radius"
+                                             alt="User-Profile-Image">
+                                        <span id="username"></span>
+                                        <i class="feather icon-chevron-down"></i>
+                                    </div>
+                                    <ul class="show-notification profile-notification dropdown-menu"
+                                        data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
+                                        <li>
+                                            <a id="mi_perfil">
+                                                <i class="feather icon-user"></i> Perfil
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a onclick="cerrar_sesion()">
+                                                <i class="feather icon-log-out"></i> Logout
+
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="pcoded-main-container">
+                <div class="pcoded-wrapper">
+                    <!-- [ navigation menu ] end -->
+                    <div class="pcoded-content">
+
+                        <div class="pcoded-inner-content">
+                            <div class="main-body">
+                                @RenderBody()
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/assets/resources/bower_components/jquery/js/jquery.min.js"></script>
+    <script src="~/assets/resources/bower_components/jquery-ui/js/jquery-ui.min.js"></script>
+    <script src="~/assets/resources/bower_components/popper.js/js/popper.min.js"></script>
+    <script src="~/assets/resources/bower_components/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/assets/resources/assets/pages/waves/js/waves.min.js"></script>
+    <script src="~/assets/resources/bower_components/sweetalert/js/sweetalert.min.js"></script>
+    <!-- data-table js -->
+    <script src="~/assets/resources/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/assets/resources/bower_components/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/assets/resources/assets/pages/data-table/extensions/colreorder/js/dataTables.colReorder.min.js"></script>
+    <script src="~/assets/resources/bower_components/datatables.net-buttons/js/buttons.print.min.js"></script>
+    <script src="~/assets/resources/bower_components/datatables.net-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/assets/resources/bower_components/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/assets/resources/bower_components/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/assets/resources/bower_components/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.7/dist/latest/bootstrap-autocomplete.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
+    <script src="~/assets/resources/bower_components/jquery.steps/js/jquery.steps.js"></script>
+    <script src="~/assets/resources/bower_components/jquery-validation/js/jquery.validate.js"></script>
+    @RenderSection("scripts", required: false)
+    <script  src="~/assets/js/expressJS/utils.js"></script>
+    <script type="module" src="~/assets/js/expressJS/perfil.js"></script>
+    <script type="module" src="~/assets/js/expressJS/cliente.js"></script>
 </body>
 </html>

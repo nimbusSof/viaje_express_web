@@ -1,23 +1,64 @@
 ﻿
 @{
-    ViewData["Title"] = "AdminCooperativa";
+    ViewData["Title"] = "Administrador Cooperativa";
     Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
 }
 
-<h1>AdminCooperativa</h1>
 
 <div class="col-sm-12">
     <div class="card ">
+        <div class="card-header">
+            <button class="btn btn-round waves-light btn-primary" id="crear_admincooperativa">
+                <i class="fa fa-plus-square"></i>
+                Nueva Admin Cooperativa
+            </button>
+
+        </div>
         <div class="card-block">
+            <div class="form-group row">
+                <div class="col-sm-1">
+                    <select id="limit" name="limit" class="limitar">
+                        <option value="5">5</option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                    </select>
+                </div>
+
+                <div class="col">
+                    <input type="text" class="colcedula form-control" placeholder="Cedula">
+                </div>
+                <div class="col">
+                    <input type="text" class="colnombre form-control" placeholder="Nombres">
+                </div>
+                <div class="col">
+                    <input type="text" class="colapellido form-control" placeholder="Apellidos">
+                </div>
+                <div class="col">
+                    <input type="text" class="colcorreo form-control" placeholder="Correo">
+                </div>
+
+                <div class="col">
+                    <select id="sactivo" name="sactivo" class="colactivoadmin form-control">
+                        <option value="1">Activo</option>
+                        <option value="0">Desactivo</option>
+                    </select>
+                </div>
+                <div class="col">
+                    <input type="text" class="colcooperativa form-control" placeholder="Cooperativa">
+                </div>
+                <div class="col-sm-4"></div>
+            </div>
             <div class="table-responsive dt-responsive">
                 <table class="table table-striped table-bordered nowrap" id="tblAdminCoop">
                     <thead>
                         <tr>
+                            <th>ID</th>
                             <th>Cedula</th>
                             <th>Nombre</th>
                             <th>Apellido</th>
                             <th>Correo</th>
-                            <th>Telefono</th>
+                            <th>Estado</th>
                             <th>Cooperativa</th>
                             <th>Acción</th>
                         </tr>
@@ -28,97 +69,147 @@
 
     </div>
 
+    <div class="modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" id="modalbody">
+
+                <!-- Modal -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Nueva Cooperativa</h4>
+                    <button type="button" class="close"
+                            data-dismiss="modal"
+                            aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    <span id="form_result"></span>
+
+                    <form id="formulario_admincooperativa" method="post">
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Cedula
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="cedula" name="cedula" class="form-control required">
+                                <label class="error" style="color:red" for="cedula" id="cedula_error">La cedula es requerida.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Nombres
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="nombres" name="nombres" class="form-control required">
+                                <label class="error" style="color:red" for="nombres" id="nombres_error">Los nombres son requeridos.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Apellido
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="apellidos" name="apellidos" class="form-control required">
+                                <label class="error" style="color:red" for="apellido" id="apellido_error">El apellido es requerido.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Genero
+                            </label>
+                            <div class="col-md-8">
+                                <select name="genero" id="genero" class="form-control required">
+                                    <option value="M">Masculino</option>
+                                    <option value="F">Femenino</option>
+                                    <option value="O">Otro</option>
+                                </select>
+                                <label class="error" style="color:red" for="genero" id="genero_error">El genero es reuquerido.</label>
+                            </div>
+
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Cooperativa
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" name="cooperativa" id="cooperativa" class="autocompletado form-control input-lg" autocomplete="off" />
+                                @*<select name="cooperativa" id="cooperativa" class="form-control required">
+        </select>*@
+                                <label class="error" style="color:red" for="cooperativa" id="cooperativa_error">La cooperativa es requerida.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Teléfono
+                            </label>
+                            <div class="col-md-8">
+                                <input type="text" id="telefono" name="telefono" class="form-control required">
+                                <label class="error" style="color:red" for="telefono" id="telefono_error">El telefono es requerido.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Correo
+                            </label>
+                            <div class="col-md-8">
+                                <input type="email" id="correo" name="correo" class="form-control required">
+                                <label class="error" style="color:red" for="correo" id="correo_error">El correo es requerido.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label">
+                                Fecha de nacimiento
+                            </label>
+                            <div class="col-md-8">
+                                <input type="date" id="fechan" name="fechan" class="form-control required">
+                                <label class="error" style="color:red" for="fechan" id="fechan_error">La fecha de nacimiento es requerida.</label>
+                            </div>
+                        </div>
+                        <div class="form-group row" id="resetc">
+                            <label class="col-sm-4 col-form-label">
+                                Contraseña
+                            </label>
+                            <div class="col-md-8">
+                                <button type="button" class="btn btn-danger" id="resetearc"><i class="fa fa-key" aria-hidden="true"></i> Resetear</button>
+                            </div>
+                        </div>
+                        <div class="form-group row" id="act">
+                            <label class="col-sm-4 col-form-label">
+                                Activo
+                            </label>
+                            <div class="col-md-8">
+                                <input type="checkbox" id="activo" name="activo" class="js-info" checked />
+                            </div>
+                        </div>
+
+
+                        <div class="modal-footer">
+                            <input type="hidden" name="action" id="action" value="Add" />
+                            <input type="hidden" name="hidden_id" id="hidden_id" />
+                            <button type="button" class="btn btn-default waves-effect "
+                                    data-dismiss="modal">
+                                Cancelar
+                            </button>
+                            <button type="submit" name="action_button" id="action_button" class="btn btn-primary waves-effect waves-light "
+                                    value="Add">
+                                <i class="fa fa-save"></i> Guardar
+                            </button>
+
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
 </div>
+
+
+
+
 @section Scripts{
-    <script>
-        var url = 'http://localhost:59454';
-        var listarmodulo;
-        var token;
-        var id_usuario_rol;
-        let consult = {
-            "offset": 0,
-            "limit": 50
-        }
-        $(document).ready(function () {
-            token = localStorage.getItem('id_token');
-            id_usuario_rol = localStorage.getItem('id_usuario_rol');
-            listarmodulo = document.getElementById('modulos');
-            let _url = `${url}/Modulo/${id_usuario_rol}`;
-            fetch(_url, {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'token': token,
-                },
-            })
-                .then((response) => {
-                    return response.json();
-                })
-                .then((data) => {
-                    if (data['exito']) {
-                        var modul = data['data'];
-                        modul.forEach((item) => {
-                            listarmodulo.innerHTML += `
-                                                                                                   <li class="">
-                                                                                                         <a onclick="navegar('${item['ruta']}')" class="waves-effect waves-dark">
-                                                                                                           <span class="pcoded-micon"> <i class="feather icon-command"></i> </span>
-                                                                                                            <span class="pcoded-mtext">${item['descripcion_modulo']} </span>
-                                                                                                         </a>
-                                                                                                  </li>`
-                        });
-                    } else {
-                        alert(data['mensaje']);
-                    }
 
-                }).catch((error) => alert(error));
-            obtenerAdministradoresCoop();
-        });
-        function navegar(ruta) {
-            location.href = `../${ruta}`;
-        }
-
-        function obtenerAdministradoresCoop() {
-            $.ajax({
-                headers: {
-                    'Accept': 'application/json',
-                    'Content-Type': 'application/json',
-                    'token': token
-                },
-                url: `${url}/UsuarioAdministradorCooperativa/Listar`,
-                type: "POST",
-                data: JSON.stringify(consult),
-                dataType: "json",
-                success: function (data) {
-                    datatable = $("#tblAdminCoop").DataTable();
-                    datatable.destroy();
-                    // $('#tblCoop').empty();
-                    datatable = $('#tblAdminCoop').DataTable({
-                        processing: false,
-                        serverSide: false,
-                        responsive: true,
-                        autoWidth: false,
-                        data: data['data'],
-                        columns: [
-                            { data: "cedula" },
-                            { data: "nombre" },
-                            { data: "apellido" },
-                            { data: "correo" },
-                            { data: "telefono" },
-                            { data: "nombre_cooperativa" },
-                            {
-                                data: "id_persona_rol", "render": function (data) {
-                                    var id = data;
-                                    return '<button type="button"  name="edit" id="' + id + '"  class="edit btn btn-primary btn-sm"> <i class="fa fa-edit fa-lg"></i></button> <button type="button"   name="delete" id="' + id + '" class="delete btn btn-danger btn-sm"><i class="fa fa-trash fa-lg"></i> </button>';
-                                }
-                            }
-                        ]
-                    });
-
-                },
-                error: function (err) {
-                    console.log(err);
-                }
-            });
-        }
-
-    </script>
+    <script type="module" src="~/assets/js/expressJS/users-administradoresCoop.js"></script>
 }

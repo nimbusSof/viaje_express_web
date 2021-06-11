@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "MapaRutas";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+@section styles{
+    <link href="~/assets/resources/oepnstreamap/leaflet.fullscreen.css" rel="stylesheet" />
+    <style>
+        #map1 {
+            width: 100%
+        }
+    </style>
+}
+
+
+<div class="col-sm-12">
+    <div class="card">
+        <div class="card-header">
+            <h5>Buscador</h5>
+        </div>
+        <div class="card-block">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="">
+                        <div class="form-group row">
+                            <span class="col-sm-2 input-group-btn">
+                                <button type="submit" class="btn btn-primary" id="obtene_ruta">Ir</button>
+                            </span>
+                            <div class="col-md-10">
+                                <input type="text" id="rutas" name="rutas" class="form-control" placeholder="Ingrese la direccion">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <div class="gmap1 full-page-google-map">
+                        <div id="map1"></div>
+                    </div>
+                </div>
+                <!-- end -->
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="module" src="~/assets/js/expressJS/mapa-rutas.js"></script>
+    <script src="~/assets/resources/oepnstreamap/Leaflet.fullscreen.js"></script>
+}

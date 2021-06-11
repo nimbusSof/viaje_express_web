@@ -4,8 +4,93 @@
     Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
 }
 
+@section styles{
+    <style>
+        #map1 {
+            min-height: 250px;
+        }
+    </style>
+}
+<div class="col-sm-12">
+    <div class="card">
+        <div class="card-header">
+            <div class="card-header-left">
+                <h4>Realizar un viaje</h4>
+            </div>
+            <h2 class="infovehiculo"></h2>
+            <h3 class="estadovehiculo"></h3>
+        </div>
+        <div class="card-block">
+            <div class="row">
 
-<h1>CHOFER</h1>
+                <div class="col-sm-6">
+                    <p>Cliente: <span id="infoCliente">Ninguno</span> </p>
+                    <p>Carrera: <span id="infoCarrera">Ninguno</span> </p>
+                    <p>Estado Carrera: <span id="infoEstadoCarrera">Ninguno</span> </p>
+                    <div class="card-block icon-btn">
+                        <button id="iniciar" class="btn waves-effect waves-light btn-primary"><i class="icofont icofont-ui-play"></i> Iniciar</button>
+                        <button  id="espera" class="btn waves-effect waves-light btn-info"><i class="icofont icofont-pause"></i> Espera</button>
+                        <button id="finalizar" class="btn waves-effect waves-light btn-warning"><i class="icofont icofont-ui-play-stop"></i> Finalizar</button>
+                        <button  id="fuera_servicio" class="btn waves-effect waves-light btn-danger"><i class="icofont icofont-warning"></i> Fuera de servicio</button>
+                    </div>
+
+                    @*<div class="btn-group " role="group">
+                            <button type="button" id="iniciar" name="iniciar" class="btn btn-success btn-xlg waves-effect waves-light"> <i class="fa fa-play fa-lg"></i>INICIAR</button>
+                            <button type="button" id="finalizar" name="finalizar" class="btn btn-danger btn-xlg waves-effect waves-light"> <i class="fa fa-stop fa-lg"></i>FINALIZAR</button>
+                            <button type="button" id="fuera_servicio" name="fuera_servicio" class="btn btn-primary btn-xlg waves-effect waves-light"> <i class="fa fa-stop fa-lg"></i>Fuera servicio</button>
+                        </div>*@
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                        <div class="card-body" id="map1"></div>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <h5>Historial viajes</h5>
+            <div class="table-responsive dt-responsive">
+                <table class="table table-striped table-bordered nowrap" id="tblhistorial">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Cedula</th>
+                            <th>Cliente</th>
+                            <th>Solicitud</th>
+                            <th>Fecha</th>
+                            @*<th>Acción</th>*@
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+
+            <div class="modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content" id="modalbody">
+
+                        <!-- Modal -->
+                        <div class="modal-header">
+                            <h4 class="modal-title">Nuevo Admin</h4>
+                            <button type="button" class="close"
+                                    data-dismiss="modal"
+                                    aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body">
+                            <span id="form_resultadmin"></span>
+                            <p>Detalle Carrera</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
 
 @section Scripts{
- }
+    <script type="module" src="~/assets/js/expressJS/chofer.js"></script>
+}
