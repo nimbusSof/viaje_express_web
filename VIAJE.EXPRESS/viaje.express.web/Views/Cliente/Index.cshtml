@@ -230,13 +230,39 @@
                 </div>
             </div>
         </form>
-            <div>
+        <div class="form-group row">
+            <label class="col-sm-4 col-form-label">
+                Historial
+            </label>
+            <div class="col-md-8">
+                <select name="historial_viajes" id="historial_viajes" class="form-control required">
+                    <option value="1">Viajes Ahora</option>
+                    <option value="2">Viajes programados</option>
+                </select>
+            </div>
+        </div>
+        <div>
             <h2>HISTORIAL DE VIAJES</h2>
-            <div class="table-responsive dt-responsive">
+            <div class="table-responsive dt-responsive" id="ahor">
                 <table class="table table-striped table-bordered nowrap" id="tblhisto_carreras_ja">
                     <thead>
                         <tr>
                             <th>ID</th>
+                            <th>Solicitud</th>
+                            <th>Chofer</th>
+                            <th>Placa</th>
+                            <th>Fecha</th>
+                            @*<th>Acción</th>*@
+                        </tr>
+                    </thead>
+                </table>
+            </div>  
+            <div class="table-responsive dt-responsive" id="program">
+                <table class="table table-striped table-bordered nowrap" id="tblhisto_carreras_prog">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Solicitud</th>
                             <th>Solicitud</th>
                             <th>Chofer</th>
                             <th>Placa</th>

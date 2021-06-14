@@ -151,3 +151,48 @@ function ObtenerDatosCooperativa() {
         });
     }
 }
+
+$(document).ready(function () {
+    // Listen for the input event.
+    $("#cedula").on('input', function (evt) {
+        // Allow only numbers.
+        $(this).val($(this).val().replace(/[^0-9]/g, ''));
+        if ($(this).val().length > 10) {
+            $(this).val($(this).val().slice(0, 10)); 
+        }
+        
+    });
+});
+$(document).ready(function () {
+    // Listen for the input event.
+    $("#telefono").on('input', function (evt) {
+        // Allow only numbers.
+        $(this).val($(this).val().replace(/[^0-9]/g, ''));
+        if ($(this).val().length > 10) {
+            $(this).val($(this).val().slice(0, 10)); 
+        }
+        
+    });
+});
+$(document).ready(function () {
+    // Listen for the input event.
+    $("#telefonoa").on('input', function (evt) {
+        // Allow only numbers.
+        $(this).val($(this).val().replace(/[^0-9]/g, ''));
+        if ($(this).val().length > 10) {
+            $(this).val($(this).val().slice(0, 10)); 
+        }
+        
+    });
+});
+//$(document).ready(function () {
+//    // Listen for the input event.
+//    $("#placa").on('input', function (evt) {
+//        // Allow only numbers.
+//        $(this).val($(this).val().replace(/[^0-9]/g, ''));
+//        if ($(this).val().length > 7) {
+//            $(this).val($(this).val().slice(0, 7)); 
+//        }
+        
+//    });
+//});

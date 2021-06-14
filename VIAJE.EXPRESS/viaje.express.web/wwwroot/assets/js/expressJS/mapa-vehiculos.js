@@ -67,16 +67,15 @@ const getListUbicacionPorIdVehiculo = async (id_vehiculo, limite) => {
 
 
 window.addEventListener('DOMContentLoaded', async (e) => {
-    console.log('idcoop ', id_cooperativa);
     db.ref(ruta_vehiculos(id_cooperativa + "-id_cooperativa")).on('value',  (querySnapshot) => {
-        console.log('querySnapshot ', querySnapshot);
+        console.log('querySnapshot ', querySnapshot.val());
         let list_ultima_ubicacion_vehiculos = [];
         querySnapshot.forEach(doc => {
             let veh = doc.val()
             if (veh.activo && !veh.eliminado && (veh.id_estado_vehiculo == 1 || veh.id_estado_vehiculo == 2) &&
                 veh.lat && veh.lng) {
                 list_ultima_ubicacion_vehiculos.push({
-                    id_cooperativa: veh.id_cooperativa,
+                    id_cooperativa: id_cooperativa,
                     id_vehiculo: veh.id_vehiculo,
                     placa: veh.placa,
                     id_persona_rol: veh.id_persona_rol,

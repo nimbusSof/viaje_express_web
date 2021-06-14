@@ -3,7 +3,8 @@ import { ruta_solicitud, end_point_vehiculo, db } from './firebas.js';
 const url_opm = 'http://nominatim.openstreetmap.org';
 var map;
 var id_persona_rol = localStorage.getItem('id_usuario_rol');
-var datatable;
+var datatable_ahora;
+var datatable_programada;
 var token = localStorage.getItem('id_token');
 var routingControl;
 var cliente = userCliente();
@@ -38,12 +39,22 @@ var datos_solicitut = {
 };
 
 $(function () {
-    obtenerHistoriaCarrerasJustoAhora();
+   // obtenerHistoriaCarrerasJustoAhora();
     if ($('select#tipo_viaje').val() == 1) {
         $('#programar_viaje').hide();
     } else if ($('select#tipo_viaje').val() == 2) {
         $('#programar_viaje').show();
     }
+    if ($('select#historial_viajes').val() == 1) {
+        $('#ahor').show();
+        $('#program').hide();
+        obtenerHistoriaCarrerasJustoAhora();
+    } else if ($('select#historial_viajes').val() == 2) {
+        $('#ahor').hide();
+        $('#program').show();
+        obtenerHistoriaCarrerasProgramadas();
+    }
+
     cuenta_cliente(id_persona_rol,
         cliente.cedula,
         cliente.nombre,
@@ -217,6 +228,51 @@ window.addEventListener('DOMContentLoaded', async (e) => {
     $('.btn-group').button();
 });
 
+const obtenerHistoriaCarrerasProgramadas=() => {
+    $.ajax({
+        headers: _headers(token),
+        url: `${url_cliente}/listar_historial_carreras_programadas/${id_persona_rol}`,
+        type: "POST",
+        data: JSON.stringify(consult),
+        dataType: "json",
+        success: function (data) {
+            console.log(data);
+            datatable_programada = $("#tblhisto_carreras_prog").DataTable();
+            datatable_programada.destroy();
+            if (data.exito) {
+                datatable_programada = $('#tblhisto_carreras_prog').DataTable({
+                    ordering: false,
+                    responsive: true,
+                    autoWidth: false,
+                    bFilter: false,
+                    lengthChange: false,
+                    bInfo: false,
+                    data: data.data,
+                    columns: [
+                        { data: "id_agendar_solicitud_cliente" },
+                        { data: "tipo_solicitud" },
+                        { data: "tipo_carrera" },
+                        { data: "nombre_chofer" },
+                        { data: "placa" },
+                        { data: "fecha_solicitud", "render": function (fecha) { return formatDate(fecha) } }
+                        //{
+                        //    data: "id_agendar_solicitud_cliente", "render": function (id) {
+                        //        return '<button type="button" id="' + id + '" class="ver_solicitud btn btn-success btn-sm"><i class="fa fa-eye fa-lg"></i> Ver</button>';
+                        //    }
+                        //}
+                    ]
+                });
+            } else {
+                clearTable('#tblhisto_carreras_prog');
+            }
+
+        },
+        error: function (err) {
+            console.log(err);
+        }
+    });
+}
+
 const obtenerHistoriaCarrerasJustoAhora = () => {
     $.ajax({
         headers: _headers(token),
@@ -225,11 +281,10 @@ const obtenerHistoriaCarrerasJustoAhora = () => {
         data: JSON.stringify(consult),
         dataType: "json",
         success: function (data) {
-            console.log(data);
-            datatable = $("#tblhisto_carreras_ja").DataTable();
-            datatable.destroy();
+            datatable_ahora = $("#tblhisto_carreras_ja").DataTable();
+            datatable_ahora.destroy();
             if (data.exito) {
-                datatable = $('#tblhisto_carreras_ja').DataTable({
+                datatable_ahora = $('#tblhisto_carreras_ja').DataTable({
                     ordering: false,
                     responsive: true,
                     autoWidth: false,
@@ -287,6 +342,17 @@ $('#tipo_viaje').on('change', function () {
         $('#programar_viaje').hide();
     } else if (this.value == 2) {
         $('#programar_viaje').show();
+    }
+});
+$('#historial_viajes').on('change', function () {
+    if (this.value == 1) {
+        $('#ahor').show();
+        $('#program').hide();
+        obtenerHistoriaCarrerasJustoAhora();
+    } else if (this.value == 2) {
+        $('#ahor').hide();
+        $('#program').show();
+        obtenerHistoriaCarrerasProgramadas();
     }
 });
 
@@ -433,27 +499,6 @@ const solicitarRuta = (LatLngdestino) => {
     }
 }
 
-
-//$('#solicitar').click(function () {
-//    if (!$.isEmptyObject(LatLng1) && !$.isEmptyObject(LatLng2)) {
-//        if (routingControl == undefined) {
-//            routingControl = L.Routing.control({
-//                show: false,
-//                waypoints: [
-//                    L.latLng(LatLng1.lat, LatLng1.lng),
-//                    L.latLng(LatLng2.lat, LatLng2.lng)
-//                ],
-//                language: 'es'
-//            }).addTo(map);
-//        } else {
-//            routingControl.getPlan().setWaypoints([
-//                L.latLng(LatLng1.lat, LatLng1.lng),
-//                L.latLng(LatLng2.lat, LatLng2.lng)
-//            ]);
-
-//        }
-//    }
-//});
 
 
 

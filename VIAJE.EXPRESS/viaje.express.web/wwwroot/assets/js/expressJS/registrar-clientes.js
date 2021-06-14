@@ -133,6 +133,29 @@ function registrarUsuarioClientenuevo_rol(idpersona,user) {
     });
 }
 
+$(document).ready(function () {
+    // Listen for the input event.
+    $("#cedula").on('input', function (evt) {
+        // Allow only numbers.
+        $(this).val($(this).val().replace(/[^0-9]/g, ''));
+        if ($(this).val().length > 10) {
+            $(this).val($(this).val().slice(0, 10));
+        }
+
+    });
+});
+$(document).ready(function () {
+    // Listen for the input event.
+    $("#telefono").on('input', function (evt) {
+        // Allow only numbers.
+        $(this).val($(this).val().replace(/[^0-9]/g, ''));
+        if ($(this).val().length > 10) {
+            $(this).val($(this).val().slice(0, 10));
+        }
+
+    });
+});
+
 ////FIREBASE
 const cuenta_cliente = (id_persona_rol, cedula, nombre, apellido, genero) => {
     db.ref(ruta_solicitud(id_persona_rol + "-id_persona_rol")).update({

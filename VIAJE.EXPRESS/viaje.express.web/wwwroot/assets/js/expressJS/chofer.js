@@ -6,9 +6,11 @@ var token = localStorage.getItem('id_token');
 var datatable;
 var chofer = obtenerChofer();
 var vehiculo = obtenerVehiculo();
-
+var routingControl;
 var map_tipo_solicitud = obtenerTipoSolicitud();
 var id_solicitud_cliente;
+var fuera_servi = false;
+$('#btn_finalizar').text('Fuera de servicio');
 document.querySelector('.estadovehiculo').innerHTML = 'Estada Vehiculo: Libre';
 
 var map;
@@ -21,17 +23,7 @@ var consult = {
     "nombre": '',
     "sort": ''
 }
-var coordenadas = [
-    { lat: 0.03586, lng: -78.14486 },
-    { lat: 0.03644, lng: -78.14467 },
-    { lat: 0.03659, lng: -78.14463 },
-    { lat: 0.03731, lng: -78.1444 },
-    { lat: 0.038, lng: -78.14419 },
-    { lat: 0.03877, lng: -78.14396 },
-    { lat: 0.03944, lng: -78.14375 },
-    { lat: 0.03999, lng: -78.14359 },
-    { lat: 0.03999, lng: -78.14359 }
-];
+
 $(function () {
     obtenerEstadosVehiculo();
     listarSolicitudespendintes();
@@ -111,9 +103,9 @@ window.addEventListener('DOMContentLoaded', async (e) => {
 
 var empezar_ruta;
 $('#iniciar').click(function () {
- empezarCarrera(2);
-    
+
     if (id_solicitud_cliente != undefined) {
+        empezarCarrera(2);
         carreraActuar('comenzar_carrera_cliente', id_solicitud_cliente);
        
     }
@@ -126,15 +118,17 @@ $('#espera').click(function () {
 
 function empezarCarrera(estadov) {
     cambiarEstadoVehiculo(estadov);
+    var ruta_cli = routingControl._selectedRoute.coordinates;
+    console.log('ruta cliente ', ruta_cli);
     let cont = 0;
     empezar_ruta = setInterval(function () {
-        if (cont <= coordenadas.length - 1) {
-            console.log(coordenadas[cont].lat + ' - ' + coordenadas[cont].lng);
-            vehiculo != null ? choferVehiculo_InsertarCoordenadas(id_cooperativa, vehiculo.id_vehiculo, id_usuario_rol, coordenadas[cont].lat, coordenadas[cont].lng) : console.log('No se encontro vehiculo');
+        if (cont <= ruta_cli.length - 1) {
+            console.log(ruta_cli[cont].lat + ' - ' + ruta_cli[cont].lng);
+            vehiculo != null ? choferVehiculo_InsertarCoordenadas(id_cooperativa, vehiculo.id_vehiculo, id_usuario_rol, ruta_cli[cont].lat, ruta_cli[cont].lng) : console.log('No se encontro vehiculo');
         } else {
             clearInterval(empezar_ruta);
             cambiarEstadoVehiculo(1);
-            console.log('Termino el viaje');
+            alert('Termino el viaje');
         }
         cont++;
     }, 2000);
@@ -144,20 +138,26 @@ $('#finalizar').click(function () {
     if (id_solicitud_cliente != undefined) {
         cambiarEstadoVehiculo(1);
         carreraActuar('finalizar_carrera_cliente', id_solicitud_cliente);
-        //clearInterval(empezar_ruta);
-        //$('#infoEstadoCarrera').text('Ninguno');
-        //$('#infoEstadoCarrera').text('Ninguno');
-        //$('#infoEstadoCarrera').text('Ninguno');
+        clearInterval(empezar_ruta);
     }
 });
 
 $('#fuera_servicio').click(function () {
-    id_solicitud_cliente = undefined;
-    cambiarEstadoVehiculo(3);
-    $('#infoCliente').text('Ninguno');
-    $('#infoCarrera').text('Ninguno');
-    $('#infoEstadoCarrera').text('Ninguno');
-   // clearInterval(empezar_ruta);
+    if (!fuera_servi) {
+        fuera_servi = true;
+        id_solicitud_cliente = undefined;
+        cambiarEstadoVehiculo(3);
+        $('#infoCliente').text('Ninguno');
+        $('#infoCarrera').text('Ninguno');
+        $('#infoEstadoCarrera').text('Ninguno');
+        $('#btn_finalizar').text('Habilitar');
+    } else {
+        $('#btn_finalizar').text('Fuera de servicio');
+        fuera_servi = false;
+        cambiarEstadoVehiculo(1);
+    }
+
+    clearInterval(empezar_ruta);
 });
 
 
@@ -171,7 +171,6 @@ function obtenerChofer() {
         success: function (data) {
             if (data.exito) {
                 result = data.data;
-                //obtenerVehiculo(result.id_vehiculo);
             } else {
                 mensajeError(data.mensaje);
             }
@@ -527,4 +526,27 @@ function datosCarrera(datos, idsolicitud) {
     carreraActuar('aceptar_solicitud_cliente', idsolicitud);
     cambiarEstadoVehiculo(2);
     obtenerHistorialCarrerasProgramadas();
+    obtener_ruta_Cliente(datos);
+}
+
+function obtener_ruta_Cliente(cliente) {
+    if (cliente != undefined) {
+        if (routingControl == undefined) {
+            routingControl = L.Routing.control({
+                show: false,
+                waypoints: [
+                    L.latLng(cliente.solicitud_realtime.origen_lat, cliente.solicitud_realtime.origen_lng),
+                    L.latLng(cliente.solicitud_realtime.destino_lat, cliente.solicitud_realtime.destino_lng)
+                ],
+                language: 'es'
+            }).addTo(map);
+        } else {
+            routingControl.getPlan().setWaypoints([
+                L.latLng(cliente.solicitud_realtime.origen_lat, cliente.solicitud_realtime.origen_lng),
+                L.latLng(cliente.solicitud_realtime.destino_lat, cliente.solicitud_realtime.destino_lng)
+            ]);
+
+        }
+    }
+
 }

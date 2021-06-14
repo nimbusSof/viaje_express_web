@@ -15,7 +15,6 @@ var consult = {
 
 $(function () {
     obtenerVehiculos();
-    //obtenerVehiculosFirebase();
 });
 
 
@@ -273,10 +272,11 @@ const operador_InsertarVehiculo = (id_cooperativa, id_vehiculo, placa) => {
 }
 
 const operador_ActualizarVehiculoEstado = (id_cooperativa, id_vehiculo, activo) => {
-    console.log('Actualizado: ', id_cooperativa, ' ', id_vehiculo, ' ', activo);
     const insertUbicacionVehiculo = db.ref(ruta_vehiculos(id_cooperativa, id_vehiculo))
     db.ref(ruta_vehiculos(id_cooperativa + "-id_cooperativa", id_vehiculo + "-id_vehiculo")).update({
-        activo
+        id_vehiculo,
+        activo,
+        eliminado: false
     })
 }
 
