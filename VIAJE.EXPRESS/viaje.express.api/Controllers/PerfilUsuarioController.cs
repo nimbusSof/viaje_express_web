@@ -18,12 +18,14 @@ namespace viaje.express.api.Controllers
     {
         private readonly ILogger<PerfilUsuarioController> _logger;
         private readonly CuentaUsuario_db _cuenta_user_db;
+        private readonly CuentaUsuarioCliente_db _cuenta_user_cli_db;
         private BaseController bc;
 
-        public PerfilUsuarioController(ILogger<PerfilUsuarioController> logger, CuentaUsuario_db cuenta_user_db)
+        public PerfilUsuarioController(ILogger<PerfilUsuarioController> logger, CuentaUsuario_db cuenta_user_db, CuentaUsuarioCliente_db cuenta_user_cli_db)
         {
             _logger = logger;
             _cuenta_user_db = cuenta_user_db;
+            _cuenta_user_cli_db = cuenta_user_cli_db;
             bc = new BaseController();
         }
 
@@ -81,5 +83,29 @@ namespace viaje.express.api.Controllers
                 return result;
             }
         }
+
+
+
+        [HttpPut]
+        [Route("reset_clave")]
+        public Resultado Put_resetear_clave_cliente(String correo, String telefono, [FromHeader] string token = "")
+        {
+            Resultado result = new Resultado();
+            result.Exito = false;
+            result.Codigo = 0;
+
+            if (bc.verificar(token))
+            {
+                return _cuenta_user_cli_db.resetear_clave_cliente(correo, telefono);
+            }
+            else
+            {
+                result.Mensaje = bc.mensaje;
+                result.Codigo = bc.codigo;
+                return result;
+            }
+        }
+
+
     }
 }

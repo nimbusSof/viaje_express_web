@@ -47,5 +47,14 @@ namespace viaje.express.data.DataCuentas
             return db.EjecutarFilaUnica<Resultado>(consulta);
         }
 
+        public Resultado resetear_clave_cliente(String correo, String telefono)
+        {
+            Consulta consulta = new Consulta("[proc_resetear_clave] @i_correo, @i_telefono");
+            consulta.AgregarParametro(db.CrearParametro("@i_correo", correo));
+            consulta.AgregarParametro(db.CrearParametro("@i_telefono", telefono));
+            consulta.AgregarParametro(db.CrearParametro("@i_operacion", "RC"));
+            return db.EjecutarFilaUnica<Resultado>(consulta);
+        }
+
     }
 }

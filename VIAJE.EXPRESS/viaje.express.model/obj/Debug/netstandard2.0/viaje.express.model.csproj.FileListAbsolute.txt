@@ -177,3 +177,14 @@ C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poye
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
 C:\Users\William\OneDrive - Universidad Tecnica del Norte\Escritorio\Pfinal\Poyecto-ViajesExpres\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.deps.json
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\viaje.express.model.pdb
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\bin\Debug\netstandard2.0\Nimbussoft.BaseDeDatos.dll
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.AssemblyInfo.cs
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.csproj.CopyComplete
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.dll
+C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.model\obj\Debug\netstandard2.0\viaje.express.model.pdb

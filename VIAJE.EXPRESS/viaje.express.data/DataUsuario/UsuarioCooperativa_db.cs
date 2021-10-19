@@ -39,8 +39,9 @@ namespace viaje.express.data.DataUsuario
 
         public Resultado resetear_clave(int id_persona_rol)
         {
-            Consulta consulta = new Consulta("[proc_resetear_clave] @id_persona_rol");
+            Consulta consulta = new Consulta("[proc_resetear_clave] @id_persona_rol, @i_operacion");
             consulta.AgregarParametro(db.CrearParametro("@id_persona_rol", id_persona_rol));
+            consulta.AgregarParametro(db.CrearParametro("@i_operacion", "RA"));
             return db.EjecutarFilaUnica<Resultado>(consulta);
         }
     }

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>viaje.express.data</id>
+    <version>1.0.0</version>
+    <authors>viaje.express.data</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="viaje.express.model" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Ajax" version="0.0.0" exclude="Build,Analyzers" />
+        <dependency id="FireSharp" version="2.0.4" exclude="Build,Analyzers" />
+        <dependency id="HotFix" version="0.4.0.175" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.jQuery.Unobtrusive.Ajax" version="3.2.6" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Console" version="4.3.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.2" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="5.0.2" exclude="Build,Analyzers" />
+        <dependency id="TimespanFactory" version="1.0.5184.40909" exclude="Build,Analyzers" />
+        <dependency id="bootstrap" version="4.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Eduardo\Source\Repos\DemoViajeExpress01\VIAJE.EXPRESS\viaje.express.data\bin\Debug\netstandard2.0\viaje.express.data.dll" target="lib\netstandard2.0\viaje.express.data.dll" />
+  </files>
+</package>

@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VIAJE.EXPRESS",
+    "\\VIAJE.EXPRESS\\viaje.express.api\\Controllers",
+    "\\VIAJE.EXPRESS\\viaje.express.model\\ModelCuentas",
+    "\\VIAJE.EXPRESS\\viaje.express.web",
+    "\\VIAJE.EXPRESS\\viaje.express.web\\wwwroot",
+    "\\VIAJE.EXPRESS\\viaje.express.web\\wwwroot\\assets",
+    "\\VIAJE.EXPRESS\\viaje.express.web\\wwwroot\\assets\\js",
+    "\\VIAJE.EXPRESS\\viaje.express.web\\wwwroot\\assets\\js\\expressJS"
   ],
-  "SelectedNode": "\\viaje.express.sln",
+  "SelectedNode": "\\VIAJE.EXPRESS\\viaje.express.web\\wwwroot\\assets\\js\\expressJS\\perfil.js",
   "PreviewInSolutionExplorer": false
 }

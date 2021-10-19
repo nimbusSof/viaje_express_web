@@ -3,11 +3,11 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iis": {
-      "applicationUrl": "http://localhost/viaje.express.api",
+      "applicationUrl": "http://127.0.0.1/viaje.express.api",
       "sslPort": 0
     },
     "iisExpress": {
-      "applicationUrl": "http://localhost:59454",
+      "applicationUrl": "http://127.0.0.1:59454",
       "sslPort": 0
     }
   },
@@ -29,7 +29,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": "true",
-      "applicationUrl": "http://localhost:5000"
+      "applicationUrl": "http://127.0.0.1:5000"
     }
   }
 }

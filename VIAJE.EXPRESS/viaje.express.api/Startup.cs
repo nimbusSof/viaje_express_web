@@ -20,6 +20,8 @@ using viaje.express.data.DataEstadoSolicitud;
 using viaje.express.data.DataTipoCarrera;
 using viaje.express.data.DataCarreraEjecucion;
 using viaje.express.data.DataAgendarSolicitudCliente;
+using viaje.express.data.DataPreferencias;
+using viaje.express.data.DataDestinoFavorito;
 
 namespace viaje.express.api
 {
@@ -61,6 +63,10 @@ namespace viaje.express.api
             services.AddTransient<TipoCarrera_db>();
             services.AddTransient<CarreraEjecucion_db>();
             services.AddTransient<AgendarSolicitudCliente_db>();
+
+            services.AddTransient<PreferenciasUsuario_db>();
+            services.AddTransient<DestinosFavoritos_db>();
+
 
             services.AddCors();
             services.AddControllers();
